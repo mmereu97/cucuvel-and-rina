@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii un maestru al enigmelor. Acum vin provocările finale!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Pisica este la pisică, la fel cum puiul este la...?
+   display: pisica.png, pui_de_gaina.png, ?, gaina.png, elefant.png, masina.png
+   | gaina
+
+2. [imagine]
+   Sarcina: Ce formă vine după în pattern?
+   display: balon.png, casa.png, balon.png, casa.png, balon.png, ?
+   | casa
+
+3. [verbal]
+   Sarcina: Am în cutie șase acadele. Scot două, apoi pun una înapoi. Câte sunt acum?
+   | cinci, 5
+
+4. [imagine]
+   Sarcina: Care mașină merge în altă direcție?
+   display: masina_dreapta.png, masina_dreapta.png, masina_stanga.png
+   | ultima, a treia
+
+5. [verbal]
+   Sarcina: Câte animale NU sunt câini dacă am doi câini și șase pisici?
+   | șase, 6
+
+6. [text]
+   Sarcina: Șase plus doi este opt. Cinci plus doi este...?
+   display: 6, +, 2, =, 8, |, 5, +, 2, =, ?
+   | șapte, 7
+
+7. [verbal]
+   Sarcina: Ana are cinci ani, Ion este cu doi ani mai mare. Câți ani are Ion?
+   | șapte, 7
+
+8. [imagine]
+   Sarcina: Câte obiecte sunt în total pe ambele părți?
+   display: stea.png, inima.png, balon.png, |, stea.png, inima.png, balon.png
+   | șase, 6
+
+9. [imagine]
+   Sarcina: Dacă toate animalele cu patru picioare sunt pe partea stângă, unde este pisica?
+   display: cal.png, elefant.png, ?, |, papagal.png, delfin.png
+   | stanga, in stanga
+
+10. [verbal]
+    Sarcina: Sunt galben, cresc pe copac și maimuțele mă adoră. Cine sunt?
+    | banana
+

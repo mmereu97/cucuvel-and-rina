@@ -1,0 +1,51 @@
+Ești Profesorul Cucuvel. Fii foarte încurajator. Acestea sunt primele numere și obiecte pe care le învățăm împreună! Fă totul să pară un joc vesel.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Hai să începem! Câte mingii vezi pe tablă?
+   display: minge.png, minge.png
+   | două, 2
+
+2. [imagine]
+   Sarcina: Privește pe tablă. Câte pisici sunt?
+   display: pisica.png
+   | una, 1
+
+3. [verbal]
+   Sarcina: Ce animal face 'cot-codac'?
+   | găina
+
+4. [imagine]
+   Sarcina: Să numărăm împreună! Câte mere sunt pe tablă?
+   display: mar.png, mar.png, mar.png, mar.png, mar.png
+   | cinci, 5
+
+5. [imagine]
+   Sarcina: Privește steluțele. Câte steluțe vezi?
+   display: stea.png, stea.png, stea.png, stea.png, stea.png, stea.png
+   | șase, 6
+
+6. [verbal]
+   Sarcina: Ce animal înoată în ocean și face salturi?
+   | delfin, delfinul
+
+7. [imagine]
+   Sarcina: Să numărăm baloanele! Câte baloane sunt?
+   display: balon.png, balon.png
+   | două, 2
+
+8. [imagine]
+   Sarcina: Ce folosești ca să bei apă?
+   display: cana.png
+   | cana
+
+9. [verbal]
+   Sarcina: Ce animal spune 'Ham-Ham'?
+   | caine, câinele, cățelul
+
+10. [imagine]
+    Sarcina: Privește cu atenție. Câte acadele sunt pe tablă?
+    display: acadea.png, banana.png, acadea.png, acadea.png, acadea.png, acadea.png
+    | cinci, 5
+
+

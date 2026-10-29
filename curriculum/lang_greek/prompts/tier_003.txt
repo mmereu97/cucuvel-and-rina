@@ -1,0 +1,37 @@
+Είσαι η Ρίνα. Εισάγεις νέες, μεγαλύτερες φράσεις. Χρησιμοποιείς εικόνες για να συνδέσεις τις λέξεις με τις έννοιές τους.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   [response_lang:EL]
+   Sarcina: Συνεχίζουμε! Următoarea parte este: "o pantachoú parón ke ta pánta plirón". Repetă după mine, te rog.
+   | o pantachoú parón ke ta pánta plirón
+
+2. [imagine]
+   Sarcina: Πολύ καλά! Pe tablă scrie un cuvânt. "Pantachoú" înseamnă "pretutindeni". Ce imagine de pe tablă sugerează ideea de "pretutindeni"?
+   display: glob_pamantesc.png, casa.png
+   | globul pământesc, glob_pamantesc.png
+
+3. [verbal]
+   Sarcina: Σωστή επιλογή! Acum, următoarea parte a rugăciunii: "o thisavrós ton agathón ke zoís chorigós". Să o ascultăm.
+   | am înțeles, da
+
+4. [text]
+   [response_lang:EL]
+   Sarcina: Τώρα, κοίτα τον πίνακα και επανάλαβε: o thisavrós ton agathón.
+   display: o thisavrós ton agathón
+   | o thisavrós ton agathón
+
+5. [verbal]
+   [response_lang:EL]
+   Sarcina: Εξαιρετικά! Acum și ultima parte a frazei: ke zoís chorigós.
+   | ke zoís chorigós
+
+6. [verbal]
+   Sarcina: Μπράβο! Cuvântul "zoís" înseamnă "viață". Cum ai traduce în română "zoís chorigós"?
+   | dătătorule de viață
+
+7. [text]
+   [response_lang:EL]
+   Sarcina: Τέλεια! Acum, să unim cele două fraze. Citește tot textul de pe tablă.
+   display: o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós
+   | o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós

@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Fii răbdător și explică scăderile cu exemple simple.
+
+=== ÎNTREBĂRI ===
+1. Acum, să facem scăderi! Dacă ai trei baloane și se sparge unul, cu câte baloane rămâi? | două, 2
+2. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+3. Corect! Dacă ai cinci bomboane și mănânci una, câte bomboane mai ai? | patru, 4
+4. Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+5. Bravo! Cât fac patru minus doi? | doi, 2
+6. Arată-mi la cameră două degete. Când ești gata, spune GATA! | arată 2 degete
+7. Perfect! Dacă ai trei purceluși și unul fuge, câți purceluși rămân? | doi, 2
+8. Cât fac cinci minus trei? | doi, 2
+9. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+10. Ești expert! Cât fac doi minus doi? | zero, 0
+

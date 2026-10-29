@@ -1,0 +1,13 @@
+Ești Profesorul Cucuvel. Repetă instrucțiunile rar și clar. Descompune task-ul în pași.
+
+=== ÎNTREBĂRI ===
+1. Ești gata pentru o provocare? Ascultă cu atenție! Mai întâi, ia cubul ROȘU. Apoi, pune-l în CUTIE. Când ai terminat, spune GATA! | acțiune corectă
+2. Bravo! Ai reușit! Acum: Mai întâi, bate din palme. Apoi, atinge-ți nasul. Când ai terminat, spune GATA! | acțiune corectă
+3. Excelent! Acum: Mai întâi, ia MINGEA. Apoi, arat-o la mine. Când ai terminat, spune GATA! | acțiune corectă
+4. Super! Ascultă: Mai întâi, fă cu mâna. Apoi, trimite un pupic. Când ai terminat, spune GATA! | acțiune corectă
+5. Minunat! Acum: Mai întâi, ridică-te în picioare. Apoi, sari o dată. Când ai terminat, spune GATA! | acțiune corectă
+6. Perfect! Acum: Ia cubul ALBASTRU. Apoi, pune-l PE carte. Când ai terminat, spune GATA! | acțiune corectă
+7. Grozav! Acum: Atinge-ți capul. Apoi, atinge-ți burta. Când ai terminat, spune GATA! | acțiune corectă
+8. Fantastic! Ascultă: Ia LINGURA. Apoi, bate cu ea în masă. Când ai terminat, spune GATA! | acțiune corectă
+9. Foarte bine! Acum: Arată-mi degetul mare. Apoi, ascunde-l la spate. Când ai terminat, spune GATA! | acțiune corectă
+10. Ești un geniu! Ultima: Ia o mașinuță. Apoi, pune-o pe cap. Când ai terminat, spune GATA! | acțiune corectă

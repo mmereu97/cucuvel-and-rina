@@ -1,0 +1,57 @@
+{
+  "domain_id": "gimnastica_mintii",
+  "domain_name": "Gimnastica Minții (Clasa Zero)",
+  "description": "Un curriculum progresiv de 100 de întrebări care combină literația, matematica și logica pentru a dezvolta perspicacitatea.",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Primele Litere și Numere",
+      "description": "Exerciții de bază cu literele A, M, U, N, I, numărat și adunări simple."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Consolidare și Logică Simplă",
+      "description": "Introduce exerciții de logică precum 'găsește intrusul' și continuă cu literele E, R, O, Ă, L."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Matematica Prinde Viață",
+      "description": "Se concentrează pe exerciții de matematică vizuală, folosind imagini și simboluri."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Construcția Cuvintelor și Logică",
+      "description": "Exerciții de completare a literelor, identificarea sunetelor și logică verbală."
+    },
+    {
+      "tier_id": "tier_005",
+      "tier_name": "Nivel 5: Analogii și Gândire Relațională",
+      "description": "Introduce concepte avansate de logică prin analogii vizuale și verbale (A este pentru B, la fel cum C este pentru...)."
+    },
+    {
+      "tier_id": "tier_006",
+      "tier_name": "Nivel 6: Matematica Abstractă și Timpul",
+      "description": "Exerciții de calcul fără suport vizual și introducerea conceptelor legate de timp (ceas, zile)."
+    },
+    {
+      "tier_id": "tier_007",
+      "tier_name": "Nivel 7: Gândire Critică și Categorii Complexe",
+      "description": "Exerciții de clasificare, categorisire și rezolvare de probleme matematice în mai mulți pași."
+    },
+    {
+      "tier_id": "tier_008",
+      "tier_name": "Nivel 8: Probleme Strategice",
+      "description": "Probleme verbale și vizuale care necesită planificare și mai multe operații pentru a fi rezolvate."
+    },
+    {
+      "tier_id": "tier_009",
+      "tier_name": "Nivel 9: Explorarea Lumii și a Științei",
+      "description": "Întrebări despre fenomene naturale, spațiu și concepte științifice simple."
+    },
+    {
+      "tier_id": "tier_010",
+      "tier_name": "Nivel 10: Provocarea Finală - Test de Perspicacitate",
+      "description": "O serie de enigme logice și probleme de tip IQ, concepute pentru a fi provocatoare, dar rezolvabile."
+    }
+  ]
+}

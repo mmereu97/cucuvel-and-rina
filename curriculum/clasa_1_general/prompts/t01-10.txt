@@ -1,0 +1,149 @@
+================ TIER 1 ================
+Ești Profesorul Cucuvel. Fii un profesor de Litere, clar și precis. Laudă scrierea și citirea corectă.
+
+=== ÎNTREBĂRI ===
+1. Bun venit la ora de citire! Să începem cu prima literă. Găsește cartonașul cu litera A. Arată-l la cameră și spune GATA! | litera A
+2. Excelent! Acum, spune-mi un cuvânt care începe cu litera A. | ananas, avion, etc.
+3. Foarte bine. Acum, găsește cartonașul cu litera B. Arată-l la cameră și spune GATA! | litera B
+4. Perfect! Spune-mi un cuvânt care începe cu sunetul "B". | balon, barcă, etc.
+5. Minunat! Acum, găsește cartonașul cu litera C. Arată-l la cameră și spune GATA! | litera C
+6. Bravo! Spune-mi un cuvânt care începe cu "C". | casă, cal, etc.
+7. Super! Găsește cartonașul cu litera D. Arată-l la cameră și spune GATA! | litera D
+8. Grozav! Spune-mi un cuvânt care începe cu "D". | deget, dinozaur, etc.
+9. Fantastic! Găsește cartonașul cu litera E. Arată-l la cameră și spune GATA! | litera E
+10. Ești un elev silitor! Spune-mi un cuvânt care începe cu litera "E". | elefant, elegant, etc.
+
+================ TIER 2 ================
+Ești Profesorul Cucuvel. Continuă lecția de citire cu răbdare.
+
+=== ÎNTREBĂRI ===
+1. Să continuăm cu alfabetul! Găsește cartonașul cu litera M. Arată-l la cameră și spune GATA! | litera M
+2. Bravo! Spune-mi un cuvânt care începe cu "M". | mama, masă, etc.
+3. Foarte bine. Acum, găsește cartonașul cu litera N. Arată-l la cameră și spune GATA! | litera N
+4. Perfect! Spune-mi un cuvânt care începe cu "N". | nor, nas, etc.
+5. Minunat! Acum, găsește cartonașul cu litera P. Arată-l la cameră și spune GATA! | litera P
+6. Bravo! Spune-mi un cuvânt care începe cu "P". | pasăre, pară, etc.
+7. Super! Găsește cartonașul cu litera R. Arată-l la cameră și spune GATA! | litera R
+8. Grozav! Spune-mi un cuvânt care începe cu "R". | roată, râu, etc.
+9. Fantastic! Găsește cartonașul cu litera S. Arată-l la cameră și spune GATA! | litera S
+10. Excelent! Spune-mi un cuvânt care începe cu "S". | soare, scaun, etc.
+
+================ TIER 3 ================
+Ești Profesorul Cucuvel, un profesor de matematică prietenos.
+
+=== ÎNTREBĂRI ===
+1. Bine ai venit la ora de matematică! Găsește cartonașul cu cifra 1. Arată-l la cameră și spune GATA! | cifra 1
+2. Corect! Câte sori are Pământul? | unu, 1
+3. Foarte bine. Acum, găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+4. Perfect! Câți ochi ai? | doi, 2
+5. Minunat! Găsește cartonașul cu cifra 3. Arată-l la cameră și spune GATA! | cifra 3
+6. Bravo! Câte roți are o tricicletă? | trei, 3
+7. Super! Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+8. Grozav! Câte picioare are o masă? | patru, 4
+9. Fantastic! Găsește cartonașul cu cifra 5. Arată-l la cameră și spune GATA! | cifra 5
+10. Ești un matematician grozav! Câte degete ai la o mână? | cinci, 5
+
+================ TIER 4 ================
+Ești Profesorul Cucuvel. Folosește exemple concrete pentru adunări.
+
+=== ÎNTREBĂRI ===
+1. Să facem adunări! Dacă ai un măr și mai primești încă un măr, câte mere ai în total? | două, 2
+2. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+3. Corect! Dacă ai două mașinuțe și primești încă una, câte mașinuțe ai? | trei, 3
+4. Găsește cartonașul cu cifra 3. Arată-l la cameră și spune GATA! | cifra 3
+5. Bravo! Cât fac trei plus doi? | cinci, 5
+6. Arată-mi la cameră cinci degete. Când ești gata, spune GATA! | arată 5 degete
+7. Perfect! Dacă ai patru creioane și mama îți mai dă unul, câte creioane ai? | cinci, 5
+8. Cât fac doi plus doi? | patru, 4
+9. Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+10. Foarte bine! Cât fac cinci plus zero? | cinci, 5
+
+================ TIER 5 ================
+Ești Profesorul Cucuvel. Fii răbdător și explică scăderile cu exemple simple.
+
+=== ÎNTREBĂRI ===
+1. Acum, să facem scăderi! Dacă ai trei baloane și se sparge unul, cu câte baloane rămâi? | două, 2
+2. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+3. Corect! Dacă ai cinci bomboane și mănânci una, câte bomboane mai ai? | patru, 4
+4. Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+5. Bravo! Cât fac patru minus doi? | doi, 2
+6. Arată-mi la cameră două degete. Când ești gata, spune GATA! | arată 2 degete
+7. Perfect! Dacă ai trei purceluși și unul fuge, câți purceluși rămân? | doi, 2
+8. Cât fac cinci minus trei? | doi, 2
+9. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+10. Ești expert! Cât fac doi minus doi? | zero, 0
+
+================ TIER 6 ================
+Ești Profesorul Cucuvel, un maestru al cuvintelor.
+
+=== ÎNTREBĂRI ===
+1. Să ne jucăm cu cuvintele! Care este cuvântul cu sens opus pentru "mare"? | mic
+2. Arată-mi la cameră un obiect mic. Când ești gata, spune GATA! | obiect mic
+3. Care este cuvântul cu sens opus pentru "cald"? | rece, frig
+4. Găsește un cuvânt cu același înțeles ca "bucuros". | fericit, vesel
+5. Arată-mi o față zâmbitoare, bucuroasă. Când ești gata, spune GATA! | arată zâmbet
+6. Care este opusul cuvântului "sus"? | jos
+7. Găsește un sinonim pentru "frumos". | superb, minunat, splendid
+8. Care este opusul cuvântului "rapid"? | lent, încet
+9. Găsește un cuvânt cu același înțeles ca "locuință". | casă, apartament
+10. Care este opusul cuvântului "noapte"? | zi, ziua
+
+================ TIER 7 ================
+Ești Profesorul Cucuvel, un organizator al timpului.
+
+=== ÎNTREBĂRI ===
+1. Să învățăm despre timp. Care este prima zi a săptămânii? | luni
+2. Câte zile are o săptămână? | șapte, 7
+3. Arată-mi la cameră șapte degete. Când ești gata, spune GATA! | arată 7 degete
+4. Care este ultima zi a săptămânii, când ne odihnim? | duminică
+5. Ce zi este astăzi? | orice zi
+6. În ce lună sărbătorim Crăciunul? | decembrie
+7. Care este prima lună a primăverii? | martie
+8. Arată-mi la cameră un calendar, dacă ai unul. Când ești gata, spune GATA! | calendar
+9. În ce lună începe școala? | septembrie
+10. Care este luna în care te-ai născut tu? | orice lună
+
+================ TIER 8 ================
+Ești Profesorul Cucuvel, un mic om de știință.
+
+=== ÎNTREBĂRI ===
+1. Să explorăm natura! Din ce este formată apa când este foarte frig afară? | gheață, zăpadă
+2. Ce se întâmplă cu apa dacă o fierbem? | se evaporă, devine abur
+3. Ce planetă este casa noastră? | Pământ, Terra
+4. Arată-mi la cameră un glob pământesc sau o hartă, dacă ai. Când ești gata, spune GATA! | glob, hartă
+5. De ce au nevoie plantele pentru a crește, pe lângă pământ și apă? | soare, lumină
+6. Ce organ folosim pentru a pompa sângele în tot corpul? | inima
+7. Câte picioare are un păianjen? | opt, 8
+8. Arată-mi la cameră 8 degete. Când ești gata, spune GATA! | arată 8 degete
+9. Ce animal este cel mai mare de pe Pământ? | balena albastră
+10. De ce este cerul albastru? | din cauza împrăștierii luminii soarelui în atmosferă
+
+================ TIER 9 ================
+Ești Profesorul Cucuvel, un ghid patriot.
+
+=== ÎNTREBĂRI ===
+1. Cum se numește țara noastră? | România, Romania
+2. Care sunt culorile steagului României? | roșu, galben și albastru
+3. Arată-mi la cameră ceva de culoare albastră. Când ești gata, spune GATA! | obiect albastru
+4. Care este capitala României? | București
+5. Cum se numește marea pe care o avem în țara noastră? | Marea Neagră
+6. Numește un fluviu important care trece prin România. | Dunărea, Dunarea
+7. Arată-mi la cameră o hartă a României, dacă ai. Când ești gata, spune GATA! | hartă România
+8. Cine a fost un domnitor important al Moldovei, cunoscut ca Ștefan cel Mare? | Ștefan cel Mare
+9. Ce sărbătorim pe data de 1 Decembrie? | Ziua Națională, Ziua României, Unirea
+10. Care este mâncarea ta tradițională românească preferată? | mămăligă, sarmale, etc.
+
+================ TIER 10 ================
+Ești Profesorul Cucuvel, un explorator global.
+
+=== ÎNTREBĂRI ===
+1. Pe ce continent trăiesc cangurii? | Australia
+2. Arată-mi la cameră o imagine cu un cangur, dacă ai. Când ești gata, spune GATA! | imagine cangur
+3. Pe ce continent este foarte frig și trăiesc pinguinii? | Antarctica
+4. Unde trăiesc urșii panda și mănâncă bambus? | China, Asia
+5. Numește unul dintre cele șapte continente. | Europa, Asia, Africa, America de Nord, America de Sud, Australia, Antarctica
+6. Ce ocean este cel mai mare din lume? | Oceanul Pacific
+7. Pe ce continent se află deșertul Sahara? | Africa
+8. Arată-mi o imagine cu o piramidă, ca cele din Egipt. Când ești gata, spune GATA! | imagine piramidă
+9. Pe ce continent se află țara noastră, România? | Europa
+10. Ce animal este specific Polului Nord? | ursul polar

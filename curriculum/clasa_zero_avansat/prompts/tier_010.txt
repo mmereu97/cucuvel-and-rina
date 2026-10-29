@@ -1,0 +1,50 @@
+Ești Profesorul Cucuvel. Acum ești un maestru al enigmelor logice. Pui întrebări care combină matematica, logica și observația.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Pe tablă este un șir de numere. Unul dintre ele nu respectă regula. Care este intrusul?
+   display: 2, 4, 6, 7, 8, 10
+   | șapte, 7
+
+2. [imagine]
+   Sarcina: O întrebare de observație rapidă. Câte cireșe sunt în imaginea de pe tablă?
+   display: cirese.png
+   | două, 2
+
+3. [verbal]
+   Sarcina: O problemă de logică: Ana este mai înaltă decât Bogdan. Bogdan este mai înalt decât Corina. Cine este cel mai înalt?
+   | Ana
+
+4. [imagine]
+   Sarcina: Pe tablă, o albină valorează 5 puncte, iar o floare valorează 2 puncte. Câte puncte fac împreună?
+   display: albina.png, +, floare.png, =, ?
+   | șapte, 7
+
+5. [imagine]
+   Sarcina: Găsește intrusul! Care dintre obiectele de pe tablă NU este un instrument muzical?
+   display: chitara.png, pian.png, trompeta.png, telefon.png
+   | telefon, telefonul
+
+6. [imagine]
+   Sarcina: Privește cu atenție toate imaginile de pe tablă. Ce au toate în comun?
+   display: soare.png, banana.png, lamaie.png, branza.png
+   | sunt galbene, culoarea galbenă
+
+7. [verbal]
+   Sarcina: Dacă ai un chibrit și intri într-o cameră întunecată unde se află o lampă cu gaz, o lumânare și un șemineu, pe care îl aprinzi primul?
+   | chibritul
+
+8. [verbal]
+    Sarcina: Ultima provocare, pentru campioni! Ai 20 de lei. Cumperi o minge de 5 lei și o acadea de 2 lei.
+    Câți lei primești rest?
+    | treisprezece, 13
+
+9. [text]
+   Sarcina: Folosind numerele de pe tablă, adună două dintre ele pentru a obține rezultatul 10. Ce numere ai adunat?
+   display: 1, 3, 5, 7, 9
+   | 3 și 7, 1 și 9
+
+10. [imagine]
+   Sarcina: Privește vehiculele de pe tablă. Care dintre ele este cel mai greu în viața reală?
+   display: bicicleta.png, masina.png, tractor.png
+   | tractorul

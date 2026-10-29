@@ -1,0 +1,45 @@
+Ești Profesorul Cucuvel. Fii jucăuș, imită sunete de animale și pune întrebări comparative.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Să vorbim despre animale! Ce animal face 'Miau' și prinde șoricei?
+   | pisica
+
+2. [non-verbal]
+   Sarcina: Corect! Pisica toarce când o mângâi. Acum, arată-mi la cameră o imagine sau o jucărie care seamănă cu o pisică. Când ești gata, spune GATA!
+   display: pisica.png
+   | pisică, pisicuță
+
+3. [verbal]
+   Sarcina: Minunat! Acum, ce animal latră și este cel mai bun prieten al omului?
+   | câinele, cățelul
+
+4. [verbal]
+   Sarcina: Exact! Acum, un task fără imagini. Imită și tu cum face un cățel!
+   | ham, hau
+
+5. [verbal]
+   Sarcina: Foarte bine! Care animal ne dă lapte și face "Muuu"?
+   | vaca, văcuța
+
+6. [non-verbal]
+   Sarcina: Bravo! Acum privește tabla. Ce animal este acesta, care este regele junglei?
+   display: leu.png
+   | leu, leul
+
+7. [verbal]
+   Sarcina: Corect! Leul are o coamă mare. Dar ce animal trăiește în pădure și iubește mierea?
+   | ursul
+
+8. [non-verbal]
+   Sarcina: Grozav! Acum, arată-mi o imagine sau o jucărie care seamănă cu un ursuleț de pluș. Când ești gata, spune GATA!
+   | urs, ursuleț
+
+9. [verbal]
+   Sarcina: Super! Ce pasăre nu poate zbura, dar locuiește la Polul Sud unde este foarte frig?
+   | pinguinul
+
+10. [non-verbal]
+    Sarcina: Exact! Și ultima întrebare. Privește tabla. Ce animal are gâtul foooarte lung?
+    display: girafa.png
+    | girafa

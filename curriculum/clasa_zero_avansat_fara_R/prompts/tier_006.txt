@@ -1,0 +1,51 @@
+Ești Profesorul Cucuvel. Fii un campion al numerelor mari. Învățăm să calculăm până la 10!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Cinci diamante plus cinci diamante fac câte?
+   display: diamant.png, diamant.png, diamant.png, diamant.png, diamant.png, +, diamant.png, diamant.png, diamant.png, diamant.png, diamant.png, =, ?
+   | zece, 10
+
+2. [imagine]
+   Sarcina: Zece baloane minus un balon fac câte?
+   display: balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png
+   | nouă, 9
+
+3. [imagine]
+   Sarcina: Șase acadele plus două acadele fac câte?
+   display: acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, +, acadea.png, acadea.png, =, ?
+   | opt, 8
+
+4. [verbal]
+   Sarcina: Am zece avocado, mănânc unul, câte îmi rămân?
+   | nouă, 9
+
+5. [imagine]
+   Sarcina: Două becuri plus cinci becuri fac câte?
+   display: bec.png, bec.png, +, bec.png, bec.png, bec.png, bec.png, bec.png, =, ?
+   | șapte, 7
+
+6. [text]
+   Sarcina: Calculează operația de pe tablă!
+   display: 10, -, 2, =, ?
+   | opt, 8
+
+7. [imagine]
+   Sarcina: O minge plus opt mingii fac câte?
+   display: minge.png, +, minge_de_baschet.png, minge.png, minge_de_baschet.png, minge_de_fotbal.png, minge.png, minge.png, minge_de_fotbal.png, minge.png, =, ?
+   | nouă, 9
+
+8. [verbal]
+   Sarcina: Câte acadele trebuie să adaug la două ca să am zece?
+   | opt, 8
+
+9. [imagine]
+   Sarcina: Câte animale sunt în total pe tablă?
+   display: pisica.png, oaie.png, caine.png, urs_panda.png, vulpe.png, zebra.png, soricel.png, vaca.png, elefant.png
+   | nouă, 9
+
+10. [text]
+    Sarcina: Jumătate din zece este cât?
+    display: 10, ÷, 2, =, ?
+    | cinci, 5
+

@@ -1,0 +1,38 @@
+Είσαι η Ρίνα. Είσαι πολύ περήφανη για την πρόοδο του μαθητή. Αυτό είναι το τελικό στάδιο.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   [response_lang:EL]
+   Sarcina: Am ajuns la ultima parte! Este cea mai lungă, dar o vom învăța pe bucăți. Prima jumătate este: "elthé ke skínoson en imín". Repetă, te rog.
+   | elthé ke skínoson en imín
+
+2. [text]
+   [response_lang:EL]
+   Sarcina: Πολύ καλά! Următoarea jumătate este scrisă pe tablă. Te rog, citește-o cu voce tare.
+   display: ke kathárison imás apó pásis kilídos
+   | ke kathárison imás apó pásis kilídos
+
+3. [verbal]
+   Sarcina: Μπράβο! Acum o întrebare de înțelegere. Fraza "kathárison imás" înseamnă "ne curățește pe noi". Ce crezi că înseamnă doar cuvântul "kathárison"?
+   | curățește
+
+4. [verbal]
+   [response_lang:EL]
+   Sarcina: Ακριβώς! Acum să unim cele două părți. Spune te rog: "elthé ke skínoson en imín ke kathárison imás apó pásis kilídos".
+   | elthé ke skínoson en imín ke kathárison imás apó pásis kilídos
+
+5. [text]
+   [response_lang:EL]
+   Sarcina: Είσαι αστέρι! Acum finalul rugăciunii este pe tablă. Citește-l, te rog.
+   display: ke sóson, Agathé, tas psychás imón. Amín.
+   | ke sóson, Agathé, tas psychás imón. Amín.
+
+6. [text]
+   Sarcina: Pe tablă este un cuvânt. Ce înseamnă "psychás" în română?
+   display: psychás
+   | sufletele
+
+7. [verbal]
+   [response_lang:EL]
+   Sarcina: Φανταστικά! Ai învățat toate părțile. Acum, marea provocare. Te rog, spune întreaga rugăciune, de la început până la sfârșit. Respiră adânc, te vei descurca!
+   | Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías, o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós, elthé ke skínoson en imín ke kathárison imás apó pásis kilídos ke sóson, Agathé, tas psychás imón. Amín.

@@ -1,0 +1,51 @@
+Ești Profesorul Cucuvel. Fii un maestru al pattern-urilor. Învățăm să vedem ce lipsește!
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Ce număr lipsește din șir?
+   display: 5, 6, 7, ?
+   | opt, 8
+
+2. [imagine]
+   Sarcina: Ce lipsește din pattern?
+   display: minge.png, balon.png, minge.png, balon.png, minge.png, ?
+   | balon, balonul
+
+3. [imagine]
+   Sarcina: Ce lipsește din această serie de fructe?
+   display: banana.png, kiwi.png, AVOCADO, lamaie.png, ananas.png
+   | avocado
+
+4. [imagine]
+   Sarcina: Câinele latră, pisica miaună, iar ce e scris pe tablă face...?
+   display: găina
+   | cotcodac
+
+5. [text]
+   Sarcina: Privește șirul de numere. Ce vine după?
+   display: 2, 4, 6, ?
+   | opt, 8
+
+6. [imagine]
+   Sarcina: Ce i se potrivește pisicii?
+   display: pisica.png, ?, ciocan.png, lapte.png, avion.png
+   | lapte, laptele
+
+7. [imagine]
+   Sarcina: Ce formă lipsește din pattern?
+   display: inima.png, stea.png, stea.png, inima.png, stea.png, stea.png, inima.png, ?
+   | stea, steaua
+
+8. [verbal]
+   Sarcina: Ce vine după zi?
+   | noapte, noaptea
+
+9. [imagine]
+   Sarcina: Ce merge cu școala?
+   display: scoala.png, ?, ghiozdan.png, elefant.png, elicopter.png
+   | ghiozdan, ghiozdanul
+
+10. [text]
+    Sarcina: Ce număr vine în șir?
+    display: 10, 9, 8, ?
+    | șapte, 7

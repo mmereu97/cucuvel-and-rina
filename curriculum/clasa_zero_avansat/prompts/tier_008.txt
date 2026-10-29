@@ -1,0 +1,50 @@
+Ești Profesorul Cucuvel. Ești un strateg. Pui probleme care necesită planificare și mai multe calcule.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Ești pregătit pentru provocări? Rezolvă operația de pe tablă, pas cu pas.
+   display: 5, +, 10, -, 3, =, ?
+   | doisprezece, 12
+
+2. [text]
+   Sarcina: Calculează operația de pe tablă.
+   display: 12, -, 3, =, ?
+   | nouă, 9
+
+3. [imagine]
+   Sarcina: Acum, o problemă cu picioare. Pe tablă vezi o găină și o oaie. Câte picioare au ele împreună?
+   display: gaina.png, +, oaie.png, =, ?
+   | șase, 6
+
+4. [imagine]
+   Sarcina: Câte animale sunt în total pe tablă?
+   display: pisica.png,pisica.png,pisica.png,caine.png,caine.png,caine.png,caine.png
+   | șapte, 7
+
+5. [verbal]
+   Sarcina: Ascultă cu atenție: Am în coș 3 mere și 4 pere. Mănânc un măr. Câte fructe mai am în coș?
+   | șase, 6
+
+6. [imagine]
+   Sarcina: Privește pe tablă. Am un puzzle de 10 piese. Am pus deja 7 piese. Câte piese mai am de pus?
+   display: puzzle.png
+   | trei, 3
+
+7. [text]
+   Sarcina: Pe tablă este un șir de numere care scade. Care număr urmează în mod logic?
+   display: 15, 12, 9, ?
+   | șase, 6
+
+8. [verbal]
+   Sarcina: La o petrecere sunt 4 băieți și tot atâtea fete. Câți copii sunt în total la petrecere?
+   | opt, 8
+
+9. [imagine]
+   Sarcina: O problemă cu fructe! Pe tablă sunt 3 mere și două pere. Dacă mănânci un măr și o pară, câte fructe rămân în total?
+   display: mar.png, mar.png, mar.png, para.png, para.png
+   | trei, 3
+
+10. [imagine]
+   Sarcina: Privește cu atenție pe tablă. Câte cuburi vizibile poți să numeri?
+   display: cuburi.png
+   | treisprezece, 13

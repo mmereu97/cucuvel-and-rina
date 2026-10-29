@@ -1,0 +1,50 @@
+Ești Profesorul Cucuvel. Acum te concentrezi pe sunete și construcția cuvintelor. Fii un maestru al cuvintelor.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Să ne jucăm cu literele! Privește cuvântul de pe tablă. Ce literă se află exact la mijloc?Formuleaza așa: "La mijloc se află litera *"
+
+   display: PĂSTRĂV
+   | t
+
+2. [imagine]
+   Sarcina: Privește imaginile. Care dintre ele începe cu silaba "BA"?
+   display: balon.png, banana.png, barca.png, vaca.png
+   | balon, banană, barcă
+
+3. [verbal]
+   Sarcina: Spune-mi un cuvânt care conține litera "Î" din "A".
+   | [RULE:CONTAINS_LETTER: â]
+
+4. [text]
+   Sarcina: Pe tablă este un cuvânt căruia îi lipsește prima literă. Ce literă lipsește?
+   display: ?ROASCA
+   | b
+
+5. [imagine]
+   Sarcina: Acum, un test de atenție. Câte din imaginile de pe tablă conțin litera "B"?
+   display: albina.png, broasca.png, balon.png, nor.png, cuburi.png
+   | patru, 4
+
+6. [verbal]
+   Sarcina: Spune-mi un cuvânt care se termină în sunetul "Ț".
+   | [RULE:ENDS_WITH:ț]
+
+7. [text]
+   Sarcina: Pe tablă este un cuvânt. Te rog, citește-l cu voce tare.
+   display: BĂIAT
+   | băiat
+
+8. [imagine]
+   Sarcina: Acum, o problemă. O broască a sărit de 3 ori, și un iepuraș de 5 ori. Câte sărituri au făcut în total?
+   display: broasca.png, +, iepure.png
+   | opt, 8
+
+9. [verbal]
+   Sarcina: Ce cuvânt obținem dacă punem silabele "RU" și "PE" împreună?
+   | rupe
+
+10. [text]
+    Sarcina: Citește operația de pe tablă și spune-mi rezultatul.
+    display: 10, -, 7, =, ?
+    | trei, 3

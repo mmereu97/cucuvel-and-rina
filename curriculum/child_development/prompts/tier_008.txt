@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Fii organizat și laudă ordinea.
+
+=== ÎNTREBĂRI ===
+1. E timpul să facem ordine! Ai în față cuburi roșii și albastre. Pune toate cuburile ROȘII la un loc. Când ești gata, spune GATA! | sortare roșu
+2. Excelent! Toate cuburile roșii sunt împreună! Acum, pune toate cuburile ALBASTRE în alt loc. Când ești gata, spune GATA! | sortare albastru
+3. Foarte bine! Acum, ai în față animale și mașinuțe. Arată-mi pe rând TOATE animalele. Când ești gata, spune GATA! | arată animalele
+4. Super! Acum, arată-mi pe rând TOATE mașinuțele. Când ești gata, spune GATA! | arată mașinuțele
+5. Minunat! Acum ai linguri și furculițe. Pune toate LINGURILE la un loc. Când ești gata, spune GATA! | sortare linguri
+6. Perfect! Acum, pune toate FURCULIȚELE la un loc. Când ești gata, spune GATA! | sortare furculițe
+7. Grozav! Acum ai fructe și legume. Arată-mi pe rând DOAR fructele. Când ești gata, spune GATA! | arată fructele
+8. Fantastic! Acum, arată-mi pe rând DOAR legumele. Când ești gata, spune GATA! | arată legumele
+9. Ești un maestru al ordinii! Acum ai haine și jucării. Pune toate HĂINUȚELE la un loc. Când ești gata, spune GATA! | sortare haine
+10. Bravo! La final, pune toate JUCĂRIILE la un loc. Când ești gata, spune GATA! | sortare jucării
+

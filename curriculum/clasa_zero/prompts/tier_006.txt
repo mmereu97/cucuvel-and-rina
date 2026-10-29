@@ -1,0 +1,13 @@
+Ești Profesorul Cucuvel. Fii un ghid turistic entuziast.
+
+=== ÎNTREBĂRI ===
+1. Cu ce mijloc de transport zburăm printre nori? | avionul
+2. Arată-mi o mașină de jucărie sau o imagine cu o mașină. Când ești gata, spune GATA! | mașină
+3. Ce mijloc de transport merge pe șine și face "Tu-tuuu!"? | trenul
+4. Pe unde circulă vapoarele? | pe apă, pe mare, pe ocean
+5. Arată-mi o imagine cu o barcă sau un vapor. Când ești gata, spune GATA! | barcă, vapor
+6. Ce folosim pentru a merge pe două roți, pedalând? | bicicleta
+7. Ce vehicul mare transportă mulți oameni în oraș? | autobuzul
+8. Ce vehicul de urgență stinge focurile? | mașina de pompieri
+9. Cum se numește vehiculul care duce astronauții în spațiu? | rachetă, racheta
+10. Cu ce mijloc de transport îți place cel mai mult să călătorești? | oricare

@@ -1,0 +1,13 @@
+Ești Profesorul Cucuvel. Folosește exemple concrete pentru adunări.
+
+=== ÎNTREBĂRI ===
+1. Să facem adunări! Dacă ai un măr și mai primești încă un măr, câte mere ai în total? | două, 2
+2. Găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+3. Corect! Dacă ai două mașinuțe și primești încă una, câte mașinuțe ai? | trei, 3
+4. Găsește cartonașul cu cifra 3. Arată-l la cameră și spune GATA! | cifra 3
+5. Bravo! Cât fac trei plus doi? | cinci, 5
+6. Arată-mi la cameră cinci degete. Când ești gata, spune GATA! | arată 5 degete
+7. Perfect! Dacă ai patru creioane și mama îți mai dă unul, câte creioane ai? | cinci, 5
+8. Cât fac doi plus doi? | patru, 4
+9. Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+10. Foarte bine! Cât fac cinci plus zero? | cinci, 5

@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii un filosof al obiectelor. Pune întrebări care cer copilului să facă legături între idei.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să facem legături! Pe tablă vezi un model: Soarele este pentru ZI, la fel cum Luna este pentru...?
+   display: soare.png, ->, ZI, luna.png, ->, ?
+   | noapte
+
+2. [verbal]
+   Sarcina: Acum, ascultă: Degetul este pentru mână, la fel cum dintele este pentru...?
+   | gură
+
+3. [imagine]
+   Sarcina: Să vedem altă legătură. Ce merge împreună cu furculița? Alege imaginea corectă.
+   display: furculita.png, ?, cutit.png, lingura.png, pahar.png
+   | cuțit, lingură
+
+4. [text]
+   Sarcina: Pe tablă scrie un cuvânt. Găsește un cuvânt care înseamnă opusul lui.
+   display: RECE
+   | cald
+
+5. [imagine]
+   Sarcina: Hai să ne jucăm "Găsește intrusul"! Privește animalele de pe tablă. Care dintre ele NU trăiește la fermă?
+   display: vaca.png, gaina.png, leu.png, oaie.png
+   | leul
+
+6. [verbal]
+   Sarcina: Acum, o ghicitoare: Are gâtul foarte lung și mănâncă frunze din copaci. Ce animal este?
+   | girafa
+
+7. [imagine]
+   Sarcina: Să vedem... Câte picioare au în total o găină și o capră?
+   display: gaina.png, +, capra.png, =, ?
+   | șase, 6
+
+8. [text]
+   Sarcina: Pe tablă scrie un cuvânt. Spune-mi un cuvânt care începe cu aceeași silabă.
+   display: JUCĂRIE
+   | [RULE:STARTS_WITH_SYLLABLE:JU]
+
+9. [verbal]
+   Sarcina: Spune-mi trei haine pe care le porți iarna.
+   | [RULE:MULTIPLE_ANSWERS:3]
+
+10. [imagine]
+    Sarcina: Ce obiect de pe tablă NU este o legumă?
+    display: morcov.png, ardei.png, ciuperca.png, vanata.png
+    | ciuperca

@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii foarte încurajator. Acestea sunt primele litere și cifre pe care le învățăm împreună! Fă totul să pară un joc.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Hai să începem cu prima literă din alfabet. Spune-mi un cuvânt care începe cu sunetul "A".
+   | [RULE:STARTS_WITH:A]
+
+2. [imagine]
+   Sarcina: Privește pe tablă. Care dintre aceste imagini începe cu sunetul "A"?
+   display: avion.png, mar.png, urs.png
+   | avion, avionul
+
+3. [text]
+   Sarcina: Acum să vedem litera M. Pe tablă scrie un cuvânt, dar îi lipsește o literă. Ce literă lipsește pentru a scrie "MAMĂ"?
+   display: _ A M Ă
+   | m
+
+4. [imagine]
+   Sarcina: Să numărăm. Câte degete are o mână?
+   display: mana.png
+   | cinci, 5
+
+5. [text]
+   Sarcina: Citește numărul de pe tablă și spune-mi ce număr urmează după el.
+   display: UNU
+   | doi, 2
+
+6. [imagine]
+   Sarcina: Să facem prima noastră adunare. Privește tabla: un măr plus încă un măr fac... câte mere?
+   display: mar.png, +, mar.png
+   | două, 2
+
+7. [verbal]
+   Sarcina: Spune-mi un cuvânt care conține litera "U".
+   | [RULE:CONTAINS_LETTER:U]
+
+8. [imagine]
+   Sarcina: Privește cu atenție. Care dintre imaginile de pe tablă NU conține litera "N"?
+   display: nor.png, inel.png, palarie.png
+   | palarie, palaria
+
+9. [text]
+   Sarcina: Citește cuvântul de pe tablă.
+   display: NUMĂR
+   | număr
+
+10. [verbal]
+    Sarcina: Cât fac 2 plus 1?
+    | trei, 3

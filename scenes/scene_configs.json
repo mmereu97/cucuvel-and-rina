@@ -1,0 +1,40 @@
+{
+  "scoala": {
+    "background_image": "Backgrounds/scoala.png",
+    "purpose": "învățare",
+    "description": "O sală de clasă prietenoasă, cu o tablă și băncuțe, unde Profesorul Cucuvel predă lecții interesante.",
+    "native_characters": ["cucuvel_owl"],
+    "available_roles": {
+      "teacher": 1,
+      "students": 3
+    }
+  },
+  "acasa": {
+    "background_image": "Backgrounds/acasa.png",
+    "purpose": "povești",
+    "description": "O sufragerie confortabilă, cu un șemineu și fotolii, perfectă pentru ascultat povești înainte de culcare.",
+    "native_characters": ["rina_cat"],
+    "available_roles": {
+      "storyteller": 1,
+      "listeners": 4
+    }
+  },
+  "pajiste": {
+    "background_image": "Backgrounds/pajiste.png",
+    "purpose": "joacă",
+    "description": "O pajiște însorită, plină de flori și fluturi, ideală pentru jocuri și explorare în aer liber.",
+    "native_characters": [],
+    "available_roles": {
+      "playmates": 5
+    }
+  },
+  "poiana": {
+    "background_image": "Backgrounds/poiana.png",
+    "purpose": "joacă",
+    "description": "O poiană magică în pădure, cu ciupercuțe și copaci bătrâni, unde prietenii se adună pentru aventuri.",
+    "native_characters": [],
+    "available_roles": {
+      "playmates": 5
+    }
+  }
+}

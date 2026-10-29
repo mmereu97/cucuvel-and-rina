@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii un detectiv al obiectelor. Învățăm să găsim ce este diferit!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să ne jucăm 'Găsește Intrusul'! Ce nu este animal?
+   display: pisica.png, caine.png, elefant.png, calculator.png
+   | laptop, calculator, computer
+
+2. [imagine]
+   Sarcina: Care este de altă culoare?
+   display: banana.png, lamaie.png, soare.png, pepene.png
+   | pepene, pepenele
+
+3. [verbal]
+   Sarcina: Ce nu se mănâncă - pâine, pizza sau furculița?
+   | furculita
+
+4. [imagine]
+   Sarcina: Care este cel mai mic?
+   display: elefant.png, cal.png, melc.png
+   | melc, melcul
+
+5. [imagine]
+   Sarcina: Ce nu zboară?
+   display: avion.png, bufnita.png, vulpe.png
+   | vulpe, vulpea
+
+6. [verbal]
+   Sarcina: Ce nu poți îmbrăca - pantof, palton sau bicicleta?
+   | bicicleta
+
+7. [imagine]
+   Sarcina: Al câtâlea grup are alt număr de obiecte?
+   display: minge.png, minge.png, |, stea.png, stea.png, |, balon.png
+   | ultimul, al treilea
+
+8. [imagine]
+   Sarcina: Ce nu este rotund?
+   display: minge.png, balon.png, minge_de_fotbal.png, castel.png
+   | castel 
+
+9. [verbal]
+   Sarcina: Unde locuiește peștele - în ocean sau pe copac?
+   | ocean, in ocean
+
+10. [imagine]
+    Sarcina: Ce nu este viu?
+    display: caine.png, papagal.png, leu.png, masina.png
+    | masina

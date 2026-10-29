@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel, un explorator și om de știință. Pui întrebări despre lumea înconjurătoare, fenomene naturale și concepte științifice simple.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să explorăm lumea! Pe tablă este o imagine a planetei noastre. Cum se numește?
+   display: glob_pamantesc.png
+   | Pământ, Terra
+
+2. [verbal]
+   Sarcina: Ce forță ne ține pe Pământ și face ca lucrurile să cadă în jos?
+   | gravitația
+
+3. [text]
+   Sarcina: Pe tablă scrie numele unui fenomen natural cu tunete și fulgere. Ce este?
+   display: FURTUNĂ
+   | furtună
+
+4. [imagine]
+   Sarcina: Privește imaginea. Acest obiect ne arată direcțiile: Nord, Sud, Est și Vest. Cum se numește?
+   display: busola.png
+   | busolă, busola
+
+5. [verbal]
+   Sarcina: Din ce se transformă omida pentru a deveni un fluture?
+   | cocon, pupă
+
+6. [imagine]
+   Sarcina: Privește imaginea de pe tablă. Ce folosește o plantă pentru a transforma lumina soarelui în hrană?
+   display: frunza.png
+   | frunzele
+
+7. [text]
+   Sarcina: Pe tablă este scris numele celui mai mare ocean de pe Pământ. Poți să-l citești?
+   display: PACIFIC
+   | Pacific
+
+8. [imagine]
+   Sarcina: Privește imaginea. Cum se numește satelitul natural al Pământului, pe care îl vedem noaptea?
+   display: luna.png
+   | Luna
+
+9. [verbal]
+   Sarcina: Care este cea mai apropiată stea de Pământ?
+   | Soarele
+
+10. [imagine]
+    Sarcina: Privește imaginea. Ce instrument folosesc oamenii de știință pentru a se uita la stele?
+    display: telescop.png
+    | telescop, telescopul

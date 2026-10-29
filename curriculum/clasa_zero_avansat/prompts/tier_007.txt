@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Pui întrebări care necesită mai mulți pași de gândire și o înțelegere mai profundă a categoriilor.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Pe tablă sunt 3 vehicule. Care dintre ele NU merge pe uscat?
+   display: masina.png, submarin.png, tren.png
+   | submarin, submarinul
+
+2. [verbal]
+   Sarcina: O întrebare de logică: Ce au în comun un măr, o minge și soarele?
+   | sunt rotunde, au formă rotundă
+
+3. [text]
+   Sarcina: Pe tablă sunt 3 cuvinte. Care dintre ele NU este un sentiment?
+   display: BUCURIE, FURIE, MASĂ
+   | masă
+
+4. [imagine]
+   Sarcina: Acum, o problemă vizuală: Pe tablă sunt 3 mașini și 2 biciclete. Câte roți sunt în total?
+   display: masina.png,masina.png,masina.png,bicicleta.png,bicicleta.png
+   | șaisprezece, 16
+
+5. [text]
+   Sarcina: Pe tablă sunt literele unui cuvânt amestecat. Ele formează un obiect pe care scrii. Ce cuvânt este?
+   display: E, R, T, A
+   | tare, arte, rațe, rate
+
+6. [imagine]
+   Sarcina: Să formăm o categorie. Privește imaginile: ciocan, șurubelniță, patent. Ce sunt toate acestea?
+   display: ciocan.png, surubelnita.png, patent.png
+   | unelte, scule
+
+7. [text]
+   Sarcina: Citește cuvintele de pe tablă. Ce categorie formează ele?
+   display: IANUARIE, MARTIE, IULIE
+   | luni ale anului, luni
+
+8. [verbal]
+   Sarcina: Ce au în comun un fulg de nea, un frigider și un cub de gheață?
+   | sunt reci 
+
+9. [imagine]
+   Sarcina: Privește imaginile. Numele cărui animal începe cu litera 'P'?
+   display: pisica.png, papagal.png, sarpe.png
+   | papagal
+
+10. [verbal]
+    Sarcina: Dacă o carte costă 10 lei și un creion costă 3 lei, câți lei îți rămân din 15 lei dacă le cumperi pe amândouă?
+    | doi, 2

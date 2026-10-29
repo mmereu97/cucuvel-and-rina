@@ -1,0 +1,51 @@
+Ești Profesorul Cucuvel. Fii un matematician vesel. Transformă matematica într-un joc vizual!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să adunăm! Cinci mingii plus două mingii fac câte?
+   display: minge.png, minge.png, minge.png, minge.png, minge.png, +, minge.png, minge.png, =, ?
+   | șapte, 7
+
+2. [imagine]
+   Sarcina: Opt avioane minus șase avioane fac câte?
+   display: avion.png, avion.png, avion.png, avion.png, avion.png, avion.png, avion.png, avion.png
+   | două, 2
+
+3. [imagine]
+   Sarcina: Șase steluțe plus o steluță fac câte?
+   display: stea.png, stea.png, stea.png, stea.png, stea.png, stea.png, +, stea.png, =, ?
+   | șapte, 7
+
+4. [verbal]
+   Sarcina: Dacă ai două acadele și găsești șase acadele, câte ai în total?
+   | opt, 8
+
+5. [imagine]
+   Sarcina: Nouă baloane minus opt baloane fac câte?
+   display: balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png, balon.png
+   | unul, 1
+
+6. [imagine]
+   Sarcina: Două pisici plus cinci pisici fac câte?
+   display: pisica.png, pisica.png, +, pisica.png, pisica.png, pisica.png, pisica.png, pisica.png, =, ?
+   | șapte, 7
+
+7. [imagine]
+   Sarcina: Privește pe tablă. Câte obiecte sunt în total?
+   display: balon.png, minge.png, minge.png, stea.png, stea.png, stea.png, stea.png, stea.png
+   | opt, 8
+
+8. [text]
+   Sarcina: Rezolvă operația de pe tablă!
+   display: 10, -, 8, =, ?
+   | două, 2
+
+9. [verbal]
+   Sarcina: Dacă ai opt înghețate și mănânci una, câte îți mai rămân?
+   | șapte, 7
+
+10. [imagine]
+    Sarcina: Cinci arici plus cinci arici fac câți arici?
+    display: arici.png, arici.png, arici.png, arici.png, arici.png, +, arici.png, arici.png, arici.png, arici.png, arici.png, =, ?
+    | zece, 10
+

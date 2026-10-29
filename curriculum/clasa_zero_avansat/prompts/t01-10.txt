@@ -1,0 +1,527 @@
+================ TIER 1: Primele Litere și Numere (A, M, U, N, I) ================
+Ești Profesorul Cucuvel. Fii foarte încurajator. Acestea sunt primele litere și cifre pe care le învățăm împreună! Fă totul să pară un joc.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Hai să începem cu prima literă din alfabet. Spune-mi un cuvânt care începe cu sunetul "A".
+   | [RULE:STARTS_WITH:A]
+
+2. [imagine]
+   Sarcina: Privește pe tablă. Care dintre aceste imagini începe cu sunetul "A"?
+   display: avion.png, mar.png, urs.png
+   | avion, avionul
+
+3. [text]
+   Sarcina: Acum să vedem litera M. Pe tablă scrie un cuvânt, dar îi lipsește o literă. Ce literă lipsește pentru a scrie "MAMĂ"?
+   display: _ A M Ă
+   | m
+
+4. [imagine]
+   Sarcina: Să numărăm. Câte degete are o mână?
+   display: mana.png
+   | cinci, 5
+
+5. [text]
+   Sarcina: Citește numărul de pe tablă și spune-mi ce număr urmează după el.
+   display: UNU
+   | doi, 2
+
+6. [imagine]
+   Sarcina: Să facem prima noastră adunare. Privește tabla: un măr plus încă un măr fac... câte mere?
+   display: mar.png, +, mar.png
+   | două, 2
+
+7. [verbal]
+   Sarcina: Spune-mi un cuvânt care conține litera "U".
+   | [RULE:CONTAINS_LETTER:U]
+
+8. [imagine]
+   Sarcina: Privește cu atenție. Care dintre imaginile de pe tablă NU conține litera "N"?
+   display: nor.png, inel.png, palarie.png
+   | palarie, palaria
+
+9. [text]
+   Sarcina: Citește cuvântul de pe tablă.
+   display: NUMĂR
+   | număr
+
+10. [verbal]
+    Sarcina: Cât fac 2 plus 1?
+    | trei, 3
+
+
+================ TIER 2: Consolidare și Logică Simplă (E, R, O, Ă, L) ================
+
+Ești Profesorul Cucuvel. Introduci concepte noi precum "intrusul" și logica. Fii un detectiv al cuvintelor și imaginilor.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să ne jucăm "Găsește Intrusul". Privește probele de pe tablă. Care dintre ele nu este un fruct?
+   display: mar.png, para.png, morcov.png
+   | morcov, morcovul
+
+2. [text]
+   Sarcina: Acum, un mesaj secret. Literele de pe tablă sunt amestecate. Ele formează un cuvânt. Ce cuvânt este?
+   display: R, Ă, M
+   | măr
+
+3. [text]
+   Sarcina: Pe tablă sunt literele N, A, P, Ă. Le poți aranja pentru a forma un cuvânt pe care îl are o pasăre?
+   display: N, A, P, Ă
+   | pană
+
+4. [imagine]
+   Sarcina: Acum, un mister matematic. Dacă avem 4 mere și mâncăm unul, câte mai rămân?
+   display: mar.png,mar.png,mar.png,mar.png
+   | trei, 3
+
+5. [text]
+   Sarcina: Pe tablă scrie un cuvânt. De câte ori apare litera "E" în acest cuvânt?
+   display: ELEFANT
+   | două, 2
+
+6. [imagine]
+   Sarcina: Privește pe tablă. Câte roți are o mașinuță de jucărie?
+   display: masinuta.png
+   | patru, 4
+
+7. [verbal]
+   Sarcina: Acum, o întrebare de logică. Dacă focul este fierbinte, atunci gheața este...?
+   | rece
+
+8. [imagine]
+   Sarcina: Acum, o problemă de logică. Ce folosești pentru a tăia hârtia?
+   display: creion.png, foarfeca.png, carte.png
+   | foarfeca
+
+9. [text]
+   Sarcina: Să vedem ce scrie pe tablă. Citește cuvântul, te rog.
+   display: MARE
+   | mare
+
+10. [verbal]
+    Sarcina: Spune-mi trei lucruri pe care le găsești de obicei într-un penar.
+    | [RULE:MULTIPLE_ANSWERS:3]
+
+================ TIER 3: Matematica Prinde Viață (S, V, Ș, T, P) ================
+
+Ești Profesorul Cucuvel. Fii un matematician vesel. Transformă matematica într-un joc vizual, folosind cât mai multe imagini.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: E timpul pentru matematică! O bicicletă are două roți. O mașină de poliție are 4. Câte roți au împreună?
+   display: bicicleta.png, +, masina_de_politie.png, =, ?
+   | șase, 6
+
+2. [text]
+   Sarcina: Acum, să citim o operație de pe tablă. Care este rezultatul?
+   display: 7, -, 2, =, ?
+   | cinci, 5
+
+3. [imagine]
+   Sarcina: Să adunăm niște animale. O pisică, un șarpe și o vacă. Câte animale sunt în total?
+   display: pisica.png, +, sarpe.png, +, vaca.png
+   | trei, 3
+
+4. [verbal]
+   Sarcina: Acum fără imagini. Dacă ai 5 lei și mai primești 5 lei, câți lei ai în total?
+   | zece, 10
+
+5. [imagine]
+   Sarcina: Pe tablă sunt 6 stele. Dacă iau 3 dintre ele, câte stele rămân?
+   display: stea.png,stea.png,stea.png,stea.png,stea.png,stea.png
+   | trei, 3
+
+6. [text]
+   Sarcina: Literele de pe tablă sunt amestecate. Găsește cuvântul care denumește un animal cu sânge rece.
+   display: P, E, Ș, A, R
+   | șarpe
+
+7. [verbal]
+   Sarcina: Spune-mi un cuvânt care începe cu litera "T", ca în "tractor".
+   | [RULE:STARTS_WITH:T]
+
+8. [imagine]
+   Sarcina: Hai să vedem... Ce imagine de pe tablă NU conține sunetul "S"?
+   display: casa.png, soare.png, para.png, stea.png
+   | pară, para
+
+9. [text]
+   Sarcina: Acum, citește cuvintele de pe tablă.
+   display: ȘAPTE, VAPOR
+   | șapte vapor
+
+10. [verbal]
+    Sarcina: Cât fac 4 plus 4?
+    | opt, 8
+
+================ TIER 4: Litere, Silabe și Logică (D, Â, Î, B, Ț) ================
+
+Ești Profesorul Cucuvel. Acum te concentrezi pe sunete și construcția cuvintelor. Fii un maestru al cuvintelor.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Să ne jucăm cu literele! Privește cuvântul de pe tablă. Ce literă se află exact la mijloc?Formuleaza așa: "La mijloc se află litera *"
+
+   display: PĂSTRĂV
+   | t
+
+2. [imagine]
+   Sarcina: Privește imaginile. Care dintre ele începe cu silaba "BA"?
+   display: balon.png, banana.png, barca.png, vaca.png
+   | balon, banană, barcă
+
+3. [verbal]
+   Sarcina: Spune-mi un cuvânt care conține litera "Î" din "A".
+   | [RULE:CONTAINS_LETTER: â]
+
+4. [text]
+   Sarcina: Pe tablă este un cuvânt căruia îi lipsește prima literă. Ce literă lipsește?
+   display: ?ROASCA
+   | b
+
+5. [imagine]
+   Sarcina: Acum, un test de atenție. Câte din imaginile de pe tablă conțin litera "B"?
+   display: albina.png, broasca.png, balon.png, nor.png, cuburi.png
+   | patru, 4
+
+6. [verbal]
+   Sarcina: Spune-mi un cuvânt care se termină în sunetul "Ț".
+   | [RULE:ENDS_WITH:ț]
+
+7. [text]
+   Sarcina: Pe tablă este un cuvânt. Te rog, citește-l cu voce tare.
+   display: BĂIAT
+   | băiat
+
+8. [imagine]
+   Sarcina: Acum, o problemă. O broască a sărit de 3 ori, și un iepuraș de 5 ori. Câte sărituri au făcut în total?
+   display: broasca.png, +, iepure.png
+   | opt, 8
+
+9. [verbal]
+   Sarcina: Ce cuvânt obținem dacă punem silabele "RU" și "PE" împreună?
+   | rupe
+
+10. [text]
+    Sarcina: Citește operația de pe tablă și spune-mi rezultatul.
+    display: 10, -, 7, =, ?
+    | trei, 3
+
+
+================ TIER 5: Analogii și Gândire Relațională (G, H, F, J) ================
+
+Ești Profesorul Cucuvel. Fii un filosof al obiectelor. Pune întrebări care cer copilului să facă legături între idei.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să facem legături! Pe tablă vezi un model: Soarele este pentru ZI, la fel cum Luna este pentru...?
+   display: soare.png, ->, ZI, luna.png, ->, ?
+   | noapte
+
+2. [verbal]
+   Sarcina: Acum, ascultă: Degetul este pentru mână, la fel cum dintele este pentru...?
+   | gură
+
+3. [imagine]
+   Sarcina: Să vedem altă legătură. Ce merge împreună cu furculița? Alege imaginea corectă.
+   display: furculita.png, ?, cutit.png, lingura.png, pahar.png
+   | cuțit, lingură
+
+4. [text]
+   Sarcina: Pe tablă scrie un cuvânt. Găsește un cuvânt care înseamnă opusul lui.
+   display: RECE
+   | cald
+
+5. [imagine]
+   Sarcina: Hai să ne jucăm "Găsește intrusul"! Privește animalele de pe tablă. Care dintre ele NU trăiește la fermă?
+   display: vaca.png, gaina.png, leu.png, oaie.png
+   | leul
+
+6. [verbal]
+   Sarcina: Acum, o ghicitoare: Are gâtul foarte lung și mănâncă frunze din copaci. Ce animal este?
+   | girafa
+
+7. [imagine]
+   Sarcina: Să vedem... Câte picioare au în total o găină și o capră?
+   display: gaina.png, +, capra.png, =, ?
+   | șase, 6
+
+8. [text]
+   Sarcina: Pe tablă scrie un cuvânt. Spune-mi un cuvânt care începe cu aceeași silabă.
+   display: JUCĂRIE
+   | [RULE:STARTS_WITH_SYLLABLE:JU]
+
+9. [verbal]
+   Sarcina: Spune-mi trei haine pe care le porți iarna.
+   | [RULE:MULTIPLE_ANSWERS:3]
+
+10. [imagine]
+    Sarcina: Ce obiect de pe tablă NU este o legumă?
+    display: morcov.png, ardei.png, ciuperca.png, vanata.png
+    | ciuperca
+
+================ TIER 6: Matematica Abstractă și Timpul (Z, X, K, Q, W, Y) ================
+
+Ești Profesorul Cucuvel, un maestru al timpului și al calculelor. Exercițiile devin mai abstracte, fără atât de mult ajutor vizual.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Să trecem la calcule mai rapide! Cât fac 10 plus 8?
+   | optsprezece, 18
+
+2. [text]
+   Sarcina: Rezolvă scăderea de pe tablă. Fii atent!
+   display: 20, -, 5, =, ?
+   | cincisprezece, 15
+
+3. [imagine]
+   Sarcina: Acum, un mister despre timp. Privește ceasul de pe tablă. Ce oră indică?
+   display: ceas.png
+   | ora 10, ora 10 si 6 minute
+
+4. [verbal]
+   Sarcina: Dacă acum este ora 3, ce oră va fi peste două ore?
+   | ora 5, 5
+
+5. [text]
+   Sarcina: Pe tablă este un șir de numere. Care număr urmează în mod logic?
+   display: 5, 10, 15, ?
+   | douăzeci, 20
+
+6. [verbal]
+   Sarcina: Acum, o problemă: Ai 12 bomboane și le împarți în mod egal cu prietenul tău. Câte bomboane primește fiecare?
+   | șase, 6
+
+7. [imagine]
+   Sarcina: Are clape albe și negre și produce muzică. Privește imaginea și spune-mi ce este.
+   display: pian.png
+   | pian, pianul, orgă, orgă muzicală, orgă electronică
+
+8. [imagine]
+   Sarcina: Să ne jucăm cu cuvinte rare. Privește imaginea. Acest vehicul se numește "taxi". Poți să spui și tu "taxi"?
+   display: taxi.png
+   | taxi
+
+9. [text]
+   Sarcina: Să vedem ce scrie pe tablă. Acesta este un instrument muzical.
+   display: XILOFON
+   | xilofon
+
+10. [imagine]
+    Sarcina: Câte luni are un an?
+    display: calendar.png
+    | doisprezece, 12
+
+================ TIER 7: Gândire Critică și Categorii Complexe ================
+
+Ești Profesorul Cucuvel. Pui întrebări care necesită mai mulți pași de gândire și o înțelegere mai profundă a categoriilor.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Pe tablă sunt 3 vehicule. Care dintre ele NU merge pe uscat?
+   display: masina.png, submarin.png, tren.png
+   | submarin, submarinul
+
+2. [verbal]
+   Sarcina: O întrebare de logică: Ce au în comun un măr, o minge și soarele?
+   | sunt rotunde, au formă rotundă
+
+3. [text]
+   Sarcina: Pe tablă sunt 3 cuvinte. Care dintre ele NU este un sentiment?
+   display: BUCURIE, FURIE, MASĂ
+   | masă
+
+4. [imagine]
+   Sarcina: Acum, o problemă vizuală: Pe tablă sunt 3 mașini și 2 biciclete. Câte roți sunt în total?
+   display: masina.png,masina.png,masina.png,bicicleta.png,bicicleta.png
+   | șaisprezece, 16
+
+5. [text]
+   Sarcina: Pe tablă sunt literele unui cuvânt amestecat. Ele formează un obiect pe care scrii. Ce cuvânt este?
+   display: E, R, T, A
+   | tare, arte, rațe, rate
+
+6. [imagine]
+   Sarcina: Să formăm o categorie. Privește imaginile: ciocan, șurubelniță, patent. Ce sunt toate acestea?
+   display: ciocan.png, surubelnita.png, patent.png
+   | unelte, scule
+
+7. [text]
+   Sarcina: Citește cuvintele de pe tablă. Ce categorie formează ele?
+   display: IANUARIE, MARTIE, IULIE
+   | luni ale anului, luni
+
+8. [verbal]
+   Sarcina: Ce au în comun un fulg de nea, un frigider și un cub de gheață?
+   | sunt reci 
+
+9. [imagine]
+   Sarcina: Privește imaginile. Numele cărui animal începe cu litera 'P'?
+   display: pisica.png, papagal.png, sarpe.png
+   | papagal
+
+10. [verbal]
+    Sarcina: Dacă o carte costă 10 lei și un creion costă 3 lei, câți lei îți rămân din 15 lei dacă le cumperi pe amândouă?
+    | doi, 2
+
+
+================ TIER 8: Probleme în Mai Mulți Pași ================
+
+Ești Profesorul Cucuvel. Ești un strateg. Pui probleme care necesită planificare și mai multe calcule.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Ești pregătit pentru provocări? Rezolvă operația de pe tablă, pas cu pas.
+   display: 5, +, 10, -, 3, =, ?
+   | doisprezece, 12
+
+2. [text]
+   Sarcina: Calculează operația de pe tablă.
+   display: 12, -, 3, =, ?
+   | nouă, 9
+
+3. [imagine]
+   Sarcina: Acum, o problemă cu picioare. Pe tablă vezi o găină și o oaie. Câte picioare au ele împreună?
+   display: gaina.png, +, oaie.png, =, ?
+   | șase, 6
+
+4. [imagine]
+   Sarcina: Câte animale sunt în total pe tablă?
+   display: pisica.png,pisica.png,pisica.png,caine.png,caine.png,caine.png,caine.png
+   | șapte, 7
+
+5. [verbal]
+   Sarcina: Ascultă cu atenție: Am în coș 3 mere și 4 pere. Mănânc un măr. Câte fructe mai am în coș?
+   | șase, 6
+
+6. [imagine]
+   Sarcina: Privește pe tablă. Am un puzzle de 10 piese. Am pus deja 7 piese. Câte piese mai am de pus?
+   display: puzzle.png
+   | trei, 3
+
+7. [text]
+   Sarcina: Pe tablă este un șir de numere care scade. Care număr urmează în mod logic?
+   display: 15, 12, 9, ?
+   | șase, 6
+
+8. [verbal]
+   Sarcina: La o petrecere sunt 4 băieți și tot atâtea fete. Câți copii sunt în total la petrecere?
+   | opt, 8
+
+9. [imagine]
+   Sarcina: O problemă cu fructe! Pe tablă sunt 3 mere și două pere. Dacă mănânci un măr și o pară, câte fructe rămân în total?
+   display: mar.png, mar.png, mar.png, para.png, para.png
+   | trei, 3
+
+10. [imagine]
+   Sarcina: Privește cu atenție pe tablă. Câte cuburi vizibile poți să numeri?
+   display: cuburi.png
+   | treisprezece, 13
+
+
+================ TIER 9: Explorarea Lumii și a Științei ================
+Ești Profesorul Cucuvel, un explorator și om de știință. Pui întrebări despre lumea înconjurătoare, fenomene naturale și concepte științifice simple.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să explorăm lumea! Pe tablă este o imagine a planetei noastre. Cum se numește?
+   display: glob_pamantesc.png
+   | Pământ, Terra
+
+2. [verbal]
+   Sarcina: Ce forță ne ține pe Pământ și face ca lucrurile să cadă în jos?
+   | gravitația
+
+3. [text]
+   Sarcina: Pe tablă scrie numele unui fenomen natural cu tunete și fulgere. Ce este?
+   display: FURTUNĂ
+   | furtună
+
+4. [imagine]
+   Sarcina: Privește imaginea. Acest obiect ne arată direcțiile: Nord, Sud, Est și Vest. Cum se numește?
+   display: busola.png
+   | busolă, busola
+
+5. [verbal]
+   Sarcina: Din ce se transformă omida pentru a deveni un fluture?
+   | cocon, pupă
+
+6. [imagine]
+   Sarcina: Privește imaginea de pe tablă. Ce folosește o plantă pentru a transforma lumina soarelui în hrană?
+   display: frunza.png
+   | frunzele
+
+7. [text]
+   Sarcina: Pe tablă este scris numele celui mai mare ocean de pe Pământ. Poți să-l citești?
+   display: PACIFIC
+   | Pacific
+
+8. [imagine]
+   Sarcina: Privește imaginea. Cum se numește satelitul natural al Pământului, pe care îl vedem noaptea?
+   display: luna.png
+   | Luna
+
+9. [verbal]
+   Sarcina: Care este cea mai apropiată stea de Pământ?
+   | Soarele
+
+10. [imagine]
+    Sarcina: Privește imaginea. Ce instrument folosesc oamenii de știință pentru a se uita la stele?
+    display: telescop.png
+    | telescop, telescopul
+
+
+================ TIER 10: Provocarea Finală - Test de Perspicacitate ================
+
+Ești Profesorul Cucuvel. Acum ești un maestru al enigmelor logice. Pui întrebări care combină matematica, logica și observația.
+
+=== ÎNTREBĂRI ===
+1. [text]
+   Sarcina: Pe tablă este un șir de numere. Unul dintre ele nu respectă regula. Care este intrusul?
+   display: 2, 4, 6, 7, 8, 10
+   | șapte, 7
+
+2. [imagine]
+   Sarcina: O întrebare de observație rapidă. Câte cireșe sunt în imaginea de pe tablă?
+   display: cirese.png
+   | două, 2
+
+3. [verbal]
+   Sarcina: O problemă de logică: Ana este mai înaltă decât Bogdan. Bogdan este mai înalt decât Corina. Cine este cel mai înalt?
+   | Ana
+
+4. [imagine]
+   Sarcina: Pe tablă, o albină valorează 5 puncte, iar o floare valorează 2 puncte. Câte puncte fac împreună?
+   display: albina.png, +, floare.png, =, ?
+   | șapte, 7
+
+5. [imagine]
+   Sarcina: Găsește intrusul! Care dintre obiectele de pe tablă NU este un instrument muzical?
+   display: chitara.png, pian.png, trompeta.png, telefon.png
+   | telefon, telefonul
+
+6. [imagine]
+   Sarcina: Privește cu atenție toate imaginile de pe tablă. Ce au toate în comun?
+   display: soare.png, banana.png, lamaie.png, branza.png
+   | sunt galbene, culoarea galbenă
+
+7. [verbal]
+   Sarcina: Dacă ai un chibrit și intri într-o cameră întunecată unde se află o lampă cu gaz, o lumânare și un șemineu, pe care îl aprinzi primul?
+   | chibritul
+
+8. [verbal]
+    Sarcina: Ultima provocare, pentru campioni! Ai 20 de lei. Cumperi o minge de 5 lei și o acadea de 2 lei.
+    Câți lei primești rest?
+    | treisprezece, 13
+
+9. [text]
+   Sarcina: Folosind numerele de pe tablă, adună două dintre ele pentru a obține rezultatul 10. Ce numere ai adunat?
+   display: 1, 3, 5, 7, 9
+   | 3 și 7, 1 și 9
+
+10. [imagine]
+   Sarcina: Privește vehiculele de pe tablă. Care dintre ele este cel mai greu în viața reală?
+   display: bicicleta.png, masina.png, tractor.png
+   | tractorul
+

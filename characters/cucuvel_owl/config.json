@@ -1,0 +1,190 @@
+{
+  "display_name": "Prof. Cucuvel Bufnițovici",
+  "language": "ro-RO",
+  "voice_id": "ro-RO-EmilNeural",
+  "can_leave_home": true,
+  "can_be_summoned": true,
+  "home_scene": "acasa",
+  "filler_sounds_folder_prefix": "audio_replici_",
+  "animator_config": ["breathing", "blinking", "emotion"],
+
+  "components": {
+    "breathing_amplitude": 2.0,
+    "parts": {
+      "picioare": "picioare/picioare.png",
+      "corp": "corp/trunchi.png",
+      "aripa_stanga": "aripa_stanga/aripa_stanga.png",
+      "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+      "cap_baza": "cap/cap_baza.png",
+      "spranceana_stanga": "cap/sprancene/spranceana_stanga_neutra.png",
+      "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_neutra.png",
+      "ochi": "cap/ochi/ochi_deschisi_centru.png",
+      "gura": "cap/gura/gura_inchisa.png"
+    },
+    
+    "part_offsets": {
+      "picioare": [0, 0],
+      "corp": [0, 0],
+      "aripa_stanga": [0, 0],
+      "aripa_dreapta": [0, 0],
+      "cap_baza": [0, 0],
+      "spranceana_stanga": [0, 0],
+      "spranceana_dreapta": [0, 0],
+      "ochi": [0, 0],
+      "gura": [0, 0]
+    },
+
+    "z_order": [
+      "picioare",
+      "corp",
+      "aripa_stanga",
+      "aripa_dreapta",
+      "cap_baza",
+      "spranceana_stanga",
+      "spranceana_dreapta",
+      "ochi",
+      "gura"
+    ],
+    
+    "animation_groups": {
+      "breathing_body": ["corp"],
+      "breathing_head": ["cap_baza", "spranceana_stanga", "spranceana_dreapta", "ochi", "gura"],
+      "blinking_part": "ochi",
+      "talking_part": "gura"
+    },
+
+    "visual_states": {
+        "blinking": {
+            "target_part": "ochi",
+            "timing": {
+                "close_duration": 50,
+                "closed_duration": 100,
+                "open_duration": 50
+            }
+        },
+        "talking": {
+            "target_part": "gura",
+            "open_file": "cap/gura/gura_deschisa.png",
+            "closed_file": "cap/gura/gura_inchisa.png"
+        },
+        "gaze_tracking": {
+            "enabled": true,
+            "target_part": "ochi",
+            "directions": {
+                "stanga": "cap/ochi/ochi_deschisi_stanga.png",
+                "centru": "cap/ochi/ochi_deschisi_centru.png",
+                "dreapta": "cap/ochi/ochi_deschisi_dreapta.png"
+            }
+        },
+        "expressions": {
+            "neutral": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "attentive": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "confuz": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_ganditoare.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_semi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_sus.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "curious": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_ganditoare.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_semi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "happy": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_extinsa.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta_extinsa.png",
+                "ochi": "cap/ochi/ochi_pupil_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_zambitoare.png"
+            },
+            "proud": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_extinsa.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta_extinsa.png",
+                "ochi": "cap/ochi/ochi_semi_stanga.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_deschisa.png"
+            },
+            "sad": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_inchisi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_neutra.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_neutra.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "thinking": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_ganditoare.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_semi_stanga.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_sus.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_neutra.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "sleeping": {
+                "ochi": "cap/ochi/ochi_inchisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png",
+                "aripa_stanga": "aripa_stanga/aripa_stanga.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png"
+            },
+            "playful": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_ganditoare.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta.png",
+                "ochi": "cap/ochi/ochi_semi_dreapta.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_sus.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_neutra.png",
+                "gura": "cap/gura/gura_zambitoare.png"
+            },
+            "surprised": {
+                "aripa_stanga": "aripa_stanga/aripa_stanga_extinsa.png",
+                "aripa_dreapta": "aripa_dreapta/aripa_dreapta_extinsa.png",
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "spranceana_stanga": "cap/sprancene/spranceana_stanga_exterior.png",
+                "spranceana_dreapta": "cap/sprancene/spranceana_dreapta_exterior.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            }
+        }
+    }
+  },
+  
+  "scene_configs": {
+    "scoala": {
+      "scale": 0.3,
+      "pos": [5, 450]
+    },
+    "poiana": {
+      "scale": 0.28,
+      "pos": [800, 600]
+    },
+    "acasa": {
+      "scale": 0.35,
+      "pos": [250, 500]
+    },
+    "pajiste": {
+      "scale": 0.29,
+      "pos": [300, 580]
+    }
+  }
+}

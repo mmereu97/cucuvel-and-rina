@@ -1,0 +1,57 @@
+{
+  "domain_id": "clasa_zero",
+  "domain_name": "Pregătire pentru Școală",
+  "description": "Cunoștințe generale pentru grupa mare.",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Despre Mine și Lumea Mea",
+      "description": "Informații personale și despre mediul apropiat."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Animale Sălbatice și Domestice",
+      "description": "Diferențierea animalelor și mediul lor de viață."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Fructe și Legume",
+      "description": "Recunoașterea și clasificarea fructelor și legumelor."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Forme, Culori și Numere",
+      "description": "Recapitulare și numărat până la 10."
+    },
+    {
+      "tier_id": "tier_005",
+      "tier_name": "Nivel 5: Anotimpurile",
+      "description": "Caracteristicile principale ale celor patru anotimpuri."
+    },
+    {
+      "tier_id": "tier_006",
+      "tier_name": "Nivel 6: Mijloace de Transport",
+      "description": "Identificarea mijloacelor de transport și unde circulă ele."
+    },
+    {
+      "tier_id": "tier_007",
+      "tier_name": "Nivel 7: Simțurile Noastre",
+      "description": "Cele cinci simțuri și organele corespunzătoare."
+    },
+    {
+      "tier_id": "tier_008",
+      "tier_name": "Nivel 8: Povești și Personaje",
+      "description": "Recunoașterea personajelor din povești clasice."
+    },
+    {
+      "tier_id": "tier_009",
+      "tier_name": "Nivel 9: Meserii",
+      "description": "Asocierea meseriilor cu uneltele specifice."
+    },
+    {
+      "tier_id": "tier_010",
+      "tier_name": "Nivel 10: Litere și Sunete",
+      "description": "Introducere în lumea literelor și a sunetelor."
+    }
+  ]
+}

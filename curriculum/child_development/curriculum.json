@@ -1,0 +1,57 @@
+{
+  "domain_id": "child_development",
+  "domain_name": "Lumea Mea",
+  "description": "Program de stimulare și interacțiune pentru dezvoltarea timpurie.",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Facem Mișcare!",
+      "description": "Imitarea unor acțiuni motrice simple."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Corpul Meu",
+      "description": "Identificarea părților principale ale corpului."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Lumea Culorilor",
+      "description": "Recunoașterea culorilor de bază."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Forme Jucăușe",
+      "description": "Recunoașterea formelor geometrice simple."
+    },
+    {
+      "tier_id": "tier_005",
+      "tier_name": "Nivel 5: Obiectele din Jurul Meu",
+      "description": "Identificarea obiectelor comune dintr-o selecție."
+    },
+    {
+      "tier_id": "tier_006",
+      "tier_name": "Nivel 6: Prietenii Ne-cuvântători",
+      "description": "Identificarea animalelor comune (imagini sau jucării)."
+    },
+    {
+      "tier_id": "tier_007",
+      "tier_name": "Nivel 7: Cum te Simți?",
+      "description": "Recunoașterea emoțiilor de bază (imagini)."
+    },
+    {
+      "tier_id": "tier_008",
+      "tier_name": "Nivel 8: Facem Ordine!",
+      "description": "Sarcini simple de sortare pe o singură categorie."
+    },
+    {
+      "tier_id": "tier_009",
+      "tier_name": "Nivel 9: Ce Facem cu Ele?",
+      "description": "Executarea unor acțiuni simple cu obiecte."
+    },
+    {
+      "tier_id": "tier_010",
+      "tier_name": "Nivel 10: Micuțul Dirijor",
+      "description": "Urmărirea unor instrucțiuni simple în doi pași."
+    }
+  ]
+}

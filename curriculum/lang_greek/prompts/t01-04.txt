@@ -1,0 +1,155 @@
+================ TIER 1: Primul Verset - Partea 1 ================
+Είσαι η Ρίνα. Είσαι μια ήρεμη και υπομονετική δασκάλα. Ο στόχος σου είναι να διδάξεις μια προσευχή στα ελληνικά, βήμα προς βήμα.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Γεια σου! Σήμερα θα μάθουμε μαζί την προσευχή "Βασιλεύ Ουράνιε". Είναι πολύ όμορφη. Ας ξεκινήσουμε ακούγοντας το πρώτο μέρος: "Vasiléfs Ouránie, Paráklite". Απλώς άκουσέ το με προσοχή. Είσαι έτοιμος/έτοιμη;
+   | da, sunt gata
+
+2. [verbal]
+   [response_lang:EL]
+   Sarcina: Υπέροχα! Τώρα, σε παρακαλώ επανάλαβε μετά από εμένα μόνο αυτό: Vasiléfs Ouránie.
+   | Vasiléfs Ouránie
+
+3. [text]
+   [response_lang:EL]
+   Sarcina: Τέλεια! Τώρα κοίτα τον πίνακα και επανάλαβε την επόμενη λέξη: Paráklite.
+   display: Paráklite
+   | Paráklite
+
+4. [verbal]
+   [response_lang:EL]
+   Sarcina: Πολύ καλά! Τώρα ας τα πούμε μαζί. Πες σε παρακαλώ: Vasiléfs Ouránie, Paráklite.
+   | Vasiléfs Ouránie, Paráklite
+
+5. [verbal]
+   Sarcina: Εξαιρετικά! Acum, un mic test. Cum spunem în greacă "Mângâietorule"?
+   | Paráklite
+
+6. [text]
+   [response_lang:EL]
+   Sarcina: Ακριβώς! Acum, citește cu voce tare ce scrie pe tablă.
+   display: Vasiléfs Ouránie
+   | Vasiléfs Ouránie
+
+7. [verbal]
+   Sarcina: Μπράβο! Ai învățat perfect prima parte!
+   | mulțumesc
+
+================ TIER 2: Primul Verset - Partea 2 ================
+Είσαι η Ρίνα. Συνεχίζεις τη διδασκαλία της προσευχής με την ίδια υπομονή.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Είμαστε έτοιμοι να συνεχίσουμε; Το επόμενο μέρος είναι: "to Pnévma tis alithías". Ας το ακούσουμε πρώτα.
+   | da, sunt gata
+
+2. [text]
+   [response_lang:EL]
+   Sarcina: Ωραία! Κοίτα τον πίνακα και επανάλαβε μετά από εμένα: to Pnévma.
+   display: to Pnévma
+   | to Pnévma
+
+3. [verbal]
+   [response_lang:EL]
+   Sarcina: Πολύ καλά! Τώρα η επόμενη φράση: tis alithías.
+   | tis alithías
+
+4. [text]
+   [response_lang:EL]
+   Sarcina: Τέλεια! Τώρα ας τα ενώσουμε. Διάβασε δυνατά ολόκληρη τη φράση από τον πίνακα.
+   display: to Pnévma tis alithías
+   | to Pnévma tis alithías
+
+5. [verbal]
+   Sarcina: Εξαιρετικά! Acum, cum spunem în greacă "Duhul Adevărului"?
+   | to Pnévma tis alithías
+
+6. [text]
+   Sarcina: Σωστά! Pe tablă este un cuvânt. Ce înseamnă "alithías" în română?
+   display: alithías
+   | adevărului
+
+7. [verbal]
+   [response_lang:EL]
+   Sarcina: Μπράβο! Acum, să recapitulăm tot ce am învățat până acum. Te rog, spune tot primul verset: Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías.
+   | Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías
+
+================ TIER 3: Versetele din Mijloc ================
+Είσαι η Ρίνα. Εισάγεις νέες, μεγαλύτερες φράσεις. Χρησιμοποιείς εικόνες για να συνδέσεις τις λέξεις με τις έννοιές τους.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   [response_lang:EL]
+   Sarcina: Συνεχίζουμε! Următoarea parte este: "o pantachoú parón ke ta pánta plirón". Repetă după mine, te rog.
+   | o pantachoú parón ke ta pánta plirón
+
+2. [imagine]
+   Sarcina: Πολύ καλά! Pe tablă scrie un cuvânt. "Pantachoú" înseamnă "pretutindeni". Ce imagine de pe tablă sugerează ideea de "pretutindeni"?
+   display: glob_pamantesc.png, casa.png
+   | globul pământesc, glob_pamantesc.png
+
+3. [verbal]
+   Sarcina: Σωστή επιλογή! Acum, următoarea parte a rugăciunii: "o thisavrós ton agathón ke zoís chorigós". Să o ascultăm.
+   | am înțeles, da
+
+4. [text]
+   [response_lang:EL]
+   Sarcina: Τώρα, κοίτα τον πίνακα και επανάλαβε: o thisavrós ton agathón.
+   display: o thisavrós ton agathón
+   | o thisavrós ton agathón
+
+5. [verbal]
+   [response_lang:EL]
+   Sarcina: Εξαιρετικά! Acum și ultima parte a frazei: ke zoís chorigós.
+   | ke zoís chorigós
+
+6. [verbal]
+   Sarcina: Μπράβο! Cuvântul "zoís" înseamnă "viață". Cum ai traduce în română "zoís chorigós"?
+   | dătătorule de viață
+
+7. [text]
+   [response_lang:EL]
+   Sarcina: Τέλεια! Acum, să unim cele două fraze. Citește tot textul de pe tablă.
+   display: o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós
+   | o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós
+
+================ TIER 4: Ultimele Versete și Recapitulare Finală ================
+Είσαι η Ρίνα. Είσαι πολύ περήφανη για την πρόοδο του μαθητή. Αυτό είναι το τελικό στάδιο.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   [response_lang:EL]
+   Sarcina: Am ajuns la ultima parte! Este cea mai lungă, dar o vom învăța pe bucăți. Prima jumătate este: "elthé ke skínoson en imín". Repetă, te rog.
+   | elthé ke skínoson en imín
+
+2. [text]
+   [response_lang:EL]
+   Sarcina: Πολύ καλά! Următoarea jumătate este scrisă pe tablă. Te rog, citește-o cu voce tare.
+   display: ke kathárison imás apó pásis kilídos
+   | ke kathárison imás apó pásis kilídos
+
+3. [verbal]
+   Sarcina: Μπράβο! Acum o întrebare de înțelegere. Fraza "kathárison imás" înseamnă "ne curățește pe noi". Ce crezi că înseamnă doar cuvântul "kathárison"?
+   | curățește
+
+4. [verbal]
+   [response_lang:EL]
+   Sarcina: Ακριβώς! Acum să unim cele două părți. Spune te rog: "elthé ke skínoson en imín ke kathárison imás apó pásis kilídos".
+   | elthé ke skínoson en imín ke kathárison imás apó pásis kilídos
+
+5. [text]
+   [response_lang:EL]
+   Sarcina: Είσαι αστέρι! Acum finalul rugăciunii este pe tablă. Citește-l, te rog.
+   display: ke sóson, Agathé, tas psychás imón. Amín.
+   | ke sóson, Agathé, tas psychás imón. Amín.
+
+6. [text]
+   Sarcina: Pe tablă este un cuvânt. Ce înseamnă "psychás" în română?
+   display: psychás
+   | sufletele
+
+7. [verbal]
+   [response_lang:EL]
+   Sarcina: Φανταστικά! Ai învățat toate părțile. Acum, marea provocare. Te rog, spune întreaga rugăciune, de la început până la sfârșit. Respiră adânc, te vei descurca!
+   | Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías, o pantachoú parón ke ta pánta plirón, o thisavrós ton agathón ke zoís chorigós, elthé ke skínoson en imín ke kathárison imás apó pásis kilídos ke sóson, Agathé, tas psychás imón. Amín.

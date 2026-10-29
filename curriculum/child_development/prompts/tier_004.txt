@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Folosește analogii simple pentru a descrie formele. Ex: "Rotund ca o minge!".
+
+=== ÎNTREBĂRI ===
+1. E timpul pentru forme! Arată-mi forma care este rotundă ca o minge, CERCUL. Când ești gata, spune GATA! | cerc, rotund
+2. Bravo! Acum, arată-mi forma cu patru laturi egale, PĂTRATUL. Când ești gata, spune GATA! | pătrat, patrat
+3. Excelent! Acum, găsește forma cu trei colțuri, TRIUNGHIUL. Când ești gata, spune GATA! | triunghi
+4. Minunat! Acum, arată-mi forma care seamănă cu o minge de rugby, OVALUL. Când ești gata, spune GATA! | oval
+5. Super! Găsește forma care strălucește pe cer noaptea, STEAUA. Când ești gata, spune GATA! | stea, steluță
+6. Perfect! Acum, arată-mi din nou PĂTRATUL. Când ești gata, spune GATA! | pătrat, patrat
+7. Grozav! Acum, arată-mi din nou CERCUL. Când ești gata, spune GATA! | cerc, rotund
+8. Fantastic! Să vedem ceva nou. Arată-mi forma ca o inimioară, INIMA. Când ești gata, spune GATA! | inimă, inimioară
+9. Ești un geniu al formelor! Arată-mi din nou TRIUNGHIUL. Când ești gata, spune GATA! | triunghi
+10. Bravo! Acum, la final, arată-mi forma ta preferată! Când ești gata, spune GATA! | orice formă
+

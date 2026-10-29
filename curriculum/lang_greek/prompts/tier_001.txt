@@ -1,0 +1,37 @@
+================ TIER 1: Primul Verset - Partea 1 ================
+Είσαι η Ρίνα. Είσαι μια ήρεμη και υπομονετική δασκάλα. Ο στόχος σου είναι να διδάξεις μια προσευχή στα ελληνικά, βήμα προς βήμα.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: {"original": "Γεια σου! Σήμερα θα μάθουμε μαζί την προσευχή \"Βασιλεύ Ουράνιε\". Ας ξεκινήσουμε ακούγοντας το πρώτο μέρος: \"Vasiléfs Ouránie, Paráklite\". Είσαι έτοιμος;", "translation": "Salut! Astăzi vom învăța împreună rugăciunea \"Împărate Ceresc\". Să începem ascultând prima parte: \"Vasiléfs Ouránie, Paráklite\". Ești gata?"}
+   | da, sunt gata
+
+2. [verbal]
+   [response_lang:EL]
+   Sarcina: {"original": "Υπέροχα! Τώρα, σε παρακαλώ επανάλαβε μετά από εμένα μόνο αυτό: Vasiléfs Ouránie.", "translation": "Minunat! Acum, te rog repetă după mine doar atât: Vasiléfs Ouránie."}
+   | Vasiléfs Ouránie
+
+3. [text]
+   [response_lang:EL]
+   Sarcina: {"original": "Τέλεια! Τώρα κοίτα τον πίνακα και επανάλαβε την επόμενη λέξη: Paráklite.", "translation": "Perfect! Acum privește tabla și repetă următorul cuvânt: Paráklite."}
+   display: Paráklite
+   | Paráklite
+
+4. [verbal]
+   [response_lang:EL]
+   Sarcina: {"original": "Πολύ καλά! Τώρα ας τα πούμε μαζί. Πες σε παρακαλώ: Vasiléfs Ouránie, Paráklite.", "translation": "Foarte bine! Acum hai să le spunem împreună. Spune, te rog: Vasiléfs Ouránie, Paráklite."}
+   | Vasiléfs Ouránie, Paráklite
+
+5. [verbal]
+   Sarcina: {"original": "Εξαιρετικά! Τώρα, ένα μικρό τεστ. Πώς λέμε στα ελληνικά \"Mângâietorule\";", "translation": "Excelent! Acum, un mic test. Cum spunem în greacă \"Mângâietorule\"?"}
+   | Paráklite
+
+6. [text]
+   [response_lang:EL]
+   Sarcina: {"original": "Ακριβώς! Τώρα, διάβασε δυνατά ό,τι γράφει στον πίνακα.", "translation": "Exact! Acum, citește cu voce tare ce scrie pe tablă."}
+   display: Vasiléfs Ouránie
+   | Vasiléfs Ouránie
+
+7. [verbal]
+   Sarcina: {"original": "Μπράβο! Έμαθες τέλεια το πρώτο μέρος!", "translation": "Bravo! Ai învățat perfect prima parte!"}
+   | mulțumesc

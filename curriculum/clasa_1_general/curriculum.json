@@ -1,0 +1,57 @@
+{
+  "domain_id": "clasa_1_general",
+  "domain_name": "Cultura Generală Clasa I",
+  "description": "Cunoștințe de bază pentru școlari.",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Literele de Tipar (A-M)",
+      "description": "Recunoașterea literelor mari de tipar, prima parte."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Literele de Tipar (N-Z)",
+      "description": "Recunoașterea literelor mari de tipar, a doua parte."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Cifre și Numere (0-10)",
+      "description": "Recunoașterea cifrelor și asocierea cu cantitatea."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Adunări Simple",
+      "description": "Operații de adunare cu numere sub 10."
+    },
+    {
+      "tier_id": "tier_005",
+      "tier_name": "Nivel 5: Scăderi Simple",
+      "description": "Operații de scădere cu numere sub 10."
+    },
+    {
+      "tier_id": "tier_006",
+      "tier_name": "Nivel 6: Limba Română",
+      "description": "Cuvinte cu sens opus și asemănător."
+    },
+    {
+      "tier_id": "tier_007",
+      "tier_name": "Nivel 7: Zile și Luni",
+      "description": "Zilele săptămânii și lunile anului."
+    },
+    {
+      "tier_id": "tier_008",
+      "tier_name": "Nivel 8: Științe",
+      "description": "Fenomene ale naturii și corpul uman."
+    },
+    {
+      "tier_id": "tier_009",
+      "tier_name": "Nivel 9: România Noastră",
+      "description": "Elemente de bază despre geografie și istorie națională."
+    },
+    {
+      "tier_id": "tier_010",
+      "tier_name": "Nivel 10: Explorăm Lumea",
+      "description": "Continente și animale specifice."
+    }
+  ]
+}

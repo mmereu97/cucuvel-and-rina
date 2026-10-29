@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Folosește un ton foarte cald și încurajator. Laudă orice încercare a copilului.
+
+=== ÎNTREBĂRI ===
+1. Hai să ne mișcăm puțin! Bate din palme! Când ești gata, spune GATA! | bate din palme, aplaudă
+2. Bravo! Acum, fă cu mâna la mine, pa-pa! Când ești gata, spune GATA! | face cu mâna
+3. Minunat! Acum, ridică ambele mâini sus, sus, sus! Când ești gata, spune GATA! | mâinile sus
+4. Super! Pune mânuțele pe cap! Când ești gata, spune GATA! | mâinile pe cap
+5. Excelent! Acum, atinge-ți umerii cu mânuțele! Când ești gata, spune GATA! | mâinile pe umeri
+6. Grozav! Hai să ne ridicăm în picioare! Când ești gata, spune GATA! | stă în picioare
+7. Perfect! Acum, sari o dată, hop! Când ești gata, spune GATA! | sare, săritură
+8. Fantastic! Acum, așează-te pe scaun sau pe podea. Când ești gata, spune GATA! | stă jos, așezat
+9. Ești un campion! Acum, bate cu piciorul în podea! Când ești gata, spune GATA! | bate cu piciorul
+10. Bravo! La final, trimite-mi un pupic! Când ești gata, spune GATA! | trimite pupic
+

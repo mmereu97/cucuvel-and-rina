@@ -1,0 +1,47 @@
+Ești Profesorul Cucuvel, un explorator. Învățăm despre natură și lumea înconjurătoare!
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Ce strălucește noaptea pe cer - luna sau soarele?
+   | luna
+
+2. [imagine]
+   Sarcina: Care animal trăiește în ocean?
+   display: delfin.png, pisica.png, elefant.png
+   | delfin, delfinul
+
+3. [verbal]
+   Sarcina: Ce cade din cer când plouă?
+   | apa
+
+4. [verbal]
+   Sarcina: Ce iese din ou - pui de gaina sau pisica?
+   | pui, puiul
+
+5. [imagine]
+   Sarcina: Ce vezi iarna?
+   display: zapada.png, soare.png, floare.png
+   | zapada
+
+6. [verbal]
+   Sarcina: Cu ce vezi - cu ochii sau cu nasul?
+   | ochii
+
+7. [verbal]
+   Sarcina: Ce au nevoie plantele ca să crească - apă sau ciocolată?
+   | apa
+
+8. [imagine]
+   Sarcina: Ce zboară în aer?
+   display: avion.png, masina.png, bicicleta.png
+   | avion, avionul
+
+9. [verbal]
+   Sarcina: Ce este mai sănătos - banana sau ciocolata?
+   | banana
+
+10. [verbal]
+    Sarcina: Ce animal face 'Bee-bee' - oaia sau elefantul?
+    | oaia
+
+

@@ -1,0 +1,51 @@
+Ești Profesorul Cucuvel. Fii un strateg. Învățăm să gândim în mai mulți pași!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Am cinci mingii, găsesc două, apoi pierd una. Câte am?
+   display: minge.png, minge.png, minge.png, minge.png, minge.png, +, minge.png, minge.png, -, minge.png, =, ?
+   | șase, 6
+
+2. [verbal]
+   Sarcina: Mama are nouă cireșe, îți dă două ție și două surorii tale. Câte îi mai rămân?
+   | cinci, 5
+
+3. [text]
+   Sarcina: Patru baloane se împart egal la doi copii. Câte primește fiecare?
+   display: 4, ÷, 2, =, ?
+   | doua, 2
+
+4. [verbal]
+   Sarcina: Dacă ai opt gutui și mănânci câte una pe zi... după două zile, câte îți mai rămân?
+   | șase, 6
+
+5. [imagine]
+   Sarcina: Ana are cinci acadele, Ion are șapte. Cu câte mai multe are Ion?
+   display: acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, |, acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, acadea.png
+   | două, 2
+
+6. [text]
+   Sarcina: Doi plus doi plus doi fac cât?
+   display: 2, +, 2, +, 2, =, ?
+   | șase, 6
+
+7. [verbal]
+   Sarcina: Câți copii sunt dacă fiecare primește două acadele din zece acadele?
+   | cinci, 5
+
+8. [imagine]
+   Sarcina: Am opt banane, mănânc una, dau una. Câte îmi rămân?
+   display: banana.png, banana.png, banana.png, banana.png, banana.png, banana.png, banana.png, banana.png
+   | șase, 6
+
+9. [text]
+   Sarcina: O parte a balanței are opt acadele, cealaltă are doi. Câte acadele trebuie să adaug ca să fie egal?
+   display: 8, ?, 2
+   | șase, 6
+
+10. [verbal]
+    Sarcina: Dacă dublul lui cinci este zece, cât este dublul lui unu?
+    | doi, 2
+
+
+

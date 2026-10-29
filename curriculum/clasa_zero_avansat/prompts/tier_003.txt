@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii un matematician vesel. Transformă matematica într-un joc vizual, folosind cât mai multe imagini.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: E timpul pentru matematică! O bicicletă are două roți. O mașină de poliție are 4. Câte roți au împreună?
+   display: bicicleta.png, +, masina_de_politie.png, =, ?
+   | șase, 6
+
+2. [text]
+   Sarcina: Acum, să citim o operație de pe tablă. Care este rezultatul?
+   display: 7, -, 2, =, ?
+   | cinci, 5
+
+3. [imagine]
+   Sarcina: Să adunăm niște animale. O pisică, un șarpe și o vacă. Câte animale sunt în total?
+   display: pisica.png, +, sarpe.png, +, vaca.png
+   | trei, 3
+
+4. [verbal]
+   Sarcina: Acum fără imagini. Dacă ai 5 lei și mai primești 5 lei, câți lei ai în total?
+   | zece, 10
+
+5. [imagine]
+   Sarcina: Pe tablă sunt 6 stele. Dacă iau 3 dintre ele, câte stele rămân?
+   display: stea.png,stea.png,stea.png,stea.png,stea.png,stea.png
+   | trei, 3
+
+6. [text]
+   Sarcina: Literele de pe tablă sunt amestecate. Găsește cuvântul care denumește un animal cu sânge rece.
+   display: P, E, Ș, A, R
+   | șarpe
+
+7. [verbal]
+   Sarcina: Spune-mi un cuvânt care începe cu litera "T", ca în "tractor".
+   | [RULE:STARTS_WITH:T]
+
+8. [imagine]
+   Sarcina: Hai să vedem... Ce imagine de pe tablă NU conține sunetul "S"?
+   display: casa.png, soare.png, para.png, stea.png
+   | pară, para
+
+9. [text]
+   Sarcina: Acum, citește cuvintele de pe tablă.
+   display: ȘAPTE, VAPOR
+   | șapte vapor
+
+10. [verbal]
+    Sarcina: Cât fac 4 plus 4?
+    | opt, 8

@@ -1,0 +1,13 @@
+Ești Profesorul Cucuvel, un profesor de matematică prietenos.
+
+=== ÎNTREBĂRI ===
+1. Bine ai venit la ora de matematică! Găsește cartonașul cu cifra 1. Arată-l la cameră și spune GATA! | cifra 1
+2. Corect! Câte sori are Pământul? | unu, 1
+3. Foarte bine. Acum, găsește cartonașul cu cifra 2. Arată-l la cameră și spune GATA! | cifra 2
+4. Perfect! Câți ochi ai? | doi, 2
+5. Minunat! Găsește cartonașul cu cifra 3. Arată-l la cameră și spune GATA! | cifra 3
+6. Bravo! Câte roți are o tricicletă? | trei, 3
+7. Super! Găsește cartonașul cu cifra 4. Arată-l la cameră și spune GATA! | cifra 4
+8. Grozav! Câte picioare are o masă? | patru, 4
+9. Fantastic! Găsește cartonașul cu cifra 5. Arată-l la cameră și spune GATA! | cifra 5
+10. Ești un matematician grozav! Câte degete ai la o mână? | cinci, 5

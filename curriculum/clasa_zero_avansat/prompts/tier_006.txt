@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel, un maestru al timpului și al calculelor. Exercițiile devin mai abstracte, fără atât de mult ajutor vizual.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Să trecem la calcule mai rapide! Cât fac 10 plus 8?
+   | optsprezece, 18
+
+2. [text]
+   Sarcina: Rezolvă scăderea de pe tablă. Fii atent!
+   display: 20, -, 5, =, ?
+   | cincisprezece, 15
+
+3. [imagine]
+   Sarcina: Acum, un mister despre timp. Privește ceasul de pe tablă. Ce oră indică?
+   display: ceas.png
+   | ora 10, ora 10 si 6 minute
+
+4. [verbal]
+   Sarcina: Dacă acum este ora 3, ce oră va fi peste două ore?
+   | ora 5, 5
+
+5. [text]
+   Sarcina: Pe tablă este un șir de numere. Care număr urmează în mod logic?
+   display: 5, 10, 15, ?
+   | douăzeci, 20
+
+6. [verbal]
+   Sarcina: Acum, o problemă: Ai 12 bomboane și le împarți în mod egal cu prietenul tău. Câte bomboane primește fiecare?
+   | șase, 6
+
+7. [imagine]
+   Sarcina: Are clape albe și negre și produce muzică. Privește imaginea și spune-mi ce este.
+   display: pian.png
+   | pian, pianul, orgă, orgă muzicală, orgă electronică
+
+8. [imagine]
+   Sarcina: Să ne jucăm cu cuvinte rare. Privește imaginea. Acest vehicul se numește "taxi". Poți să spui și tu "taxi"?
+   display: taxi.png
+   | taxi
+
+9. [text]
+   Sarcina: Să vedem ce scrie pe tablă. Acesta este un instrument muzical.
+   display: XILOFON
+   | xilofon
+
+10. [imagine]
+    Sarcina: Câte luni are un an?
+    display: calendar.png
+    | doisprezece, 12

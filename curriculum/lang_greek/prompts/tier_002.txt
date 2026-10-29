@@ -1,0 +1,37 @@
+Είσαι η Ρίνα. Συνεχίζεις τη διδασκαλία της προσευχής με την ίδια υπομονή.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Είμαστε έτοιμοι να συνεχίσουμε; Το επόμενο μέρος είναι: "to Pnévma tis alithías". Ας το ακούσουμε πρώτα.
+   | da, sunt gata
+
+2. [text]
+   [response_lang:EL]
+   Sarcina: Ωραία! Κοίτα τον πίνακα και επανάλαβε μετά από εμένα: to Pnévma.
+   display: to Pnévma
+   | to Pnévma
+
+3. [verbal]
+   [response_lang:EL]
+   Sarcina: Πολύ καλά! Τώρα η επόμενη φράση: tis alithías.
+   | tis alithías
+
+4. [text]
+   [response_lang:EL]
+   Sarcina: Τέλεια! Τώρα ας τα ενώσουμε. Διάβασε δυνατά ολόκληρη τη φράση από τον πίνακα.
+   display: to Pnévma tis alithías
+   | to Pnévma tis alithías
+
+5. [verbal]
+   Sarcina: Εξαιρετικά! Acum, cum spunem în greacă "Duhul Adevărului"?
+   | to Pnévma tis alithías
+
+6. [text]
+   Sarcina: Σωστά! Pe tablă este un cuvânt. Ce înseamnă "alithías" în română?
+   display: alithías
+   | adevărului
+
+7. [verbal]
+   [response_lang:EL]
+   Sarcina: Μπράβο! Acum, să recapitulăm tot ce am învățat până acum. Te rog, spune tot primul verset: Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías.
+   | Vasiléfs Ouránie, Paráklite, to Pnévma tis alithías

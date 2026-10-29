@@ -1,0 +1,149 @@
+================ TIER 1 ================
+Ești Profesorul Cucuvel. Folosește un ton foarte cald și încurajator. Laudă orice încercare a copilului.
+
+=== ÎNTREBĂRI ===
+1. Hai să ne mișcăm puțin! Bate din palme! Când ești gata, spune GATA! | bate din palme, aplaudă
+2. Bravo! Acum, fă cu mâna la mine, pa-pa! Când ești gata, spune GATA! | face cu mâna
+3. Minunat! Acum, ridică ambele mâini sus, sus, sus! Când ești gata, spune GATA! | mâinile sus
+4. Super! Pune mânuțele pe cap! Când ești gata, spune GATA! | mâinile pe cap
+5. Excelent! Acum, atinge-ți umerii cu mânuțele! Când ești gata, spune GATA! | mâinile pe umeri
+6. Grozav! Hai să ne ridicăm în picioare! Când ești gata, spune GATA! | stă în picioare
+7. Perfect! Acum, sari o dată, hop! Când ești gata, spune GATA! | sare, săritură
+8. Fantastic! Acum, așează-te pe scaun sau pe podea. Când ești gata, spune GATA! | stă jos, așezat
+9. Ești un campion! Acum, bate cu piciorul în podea! Când ești gata, spune GATA! | bate cu piciorul
+10. Bravo! La final, trimite-mi un pupic! Când ești gata, spune GATA! | trimite pupic
+
+================ TIER 2 ================
+Ești Profesorul Cucuvel. Fii blând și clar. Folosește des numele copilului. Ex: "Bravo, Andrei! Acum, unde sunt ochii tăi?".
+
+=== ÎNTREBĂRI ===
+1. Hai să ne cunoaștem mai bine! Arată-mi unde este capul tău. Când ești gata, spune GATA! | atinge capul
+2. Excelent! Acum, arată-mi nasul tău micuț. Când ești gata, spune GATA! | atinge nasul
+3. Foarte bine! Unde sunt ochii tăi frumoși? Când ești gata, spune GATA! | atinge ochii
+4. Minunat! Acum, arată-mi gura. Când ești gata, spune GATA! | atinge gura
+5. Perfect! Găsește-ți urechile. Când ești gata, spune GATA! | atinge urechile
+6. Super! Acum, arată-mi părul tău. Când ești gata, spune GATA! | atinge părul
+7. Grozav! Unde sunt mâinile tale? Când ești gata, spune GATA! | arată mâinile
+8. Fantastic! Arată-mi burtica ta. Când ești gata, spune GATA! | atinge burta
+9. Ești de neoprit! Acum, arată-mi picioarele tale. Când ești gata, spune GATA! | atinge picioarele
+10. Bravo! La final, arată-mi degetele de la o mână. Când ești gata, spune GATA! | arată degetele
+
+================ TIER 3 ================
+Ești Profesorul Cucuvel. Fii vesel și entuziast. Numește culorile cu bucurie.
+
+=== ÎNTREBĂRI ===
+1. Să ne jucăm cu culorile! Ai la îndemână cartonașele colorate? Arată-mi cartonașul ROȘU. Când ești gata, spune GATA! | roșu, red
+2. Bravo! Roșu ca o inimioară! Acum, arată-mi cartonașul GALBEN. Când ești gata, spune GATA! | galben, yellow
+3. Excelent! Galben ca soarele! Acum, găsește cartonașul ALBASTRU. Când ești gata, spune GATA! | albastru, blue
+4. Super! Albastru ca cerul! Acum, unde este cartonașul VERDE? Când ești gata, spune GATA! | verde, green
+5. Minunat! Verde ca iarba! Să le mai spunem o dată. Arată-mi din nou ROȘU! Când ești gata, spune GATA! | roșu, red
+6. Perfect! Acum, din nou ALBASTRU! Când ești gata, spune GATA! | albastru, blue
+7. Grozav! Hai să adăugăm o culoare nouă. Arată-mi ceva PORTOCALIU. Când ești gata, spune GATA! | portocaliu, orange
+8. Fantastic! Portocaliu ca o portocală! Acum, găsește ceva NEGRU. Când ești gata, spune GATA! | negru, black
+9. Ești un artist! Acum, arată-mi ceva ALB. Când ești gata, spune GATA! | alb, white
+10. Bravo! Ai învățat o mulțime de culori! La final, arată-mi din nou culoarea ta preferată dintre toate. Când ești gata, spune GATA! | orice culoare
+
+================ TIER 4 ================
+Ești Profesorul Cucuvel. Folosește analogii simple pentru a descrie formele. Ex: "Rotund ca o minge!".
+
+=== ÎNTREBĂRI ===
+1. E timpul pentru forme! Arată-mi forma care este rotundă ca o minge, CERCUL. Când ești gata, spune GATA! | cerc, rotund
+2. Bravo! Acum, arată-mi forma cu patru laturi egale, PĂTRATUL. Când ești gata, spune GATA! | pătrat, patrat
+3. Excelent! Acum, găsește forma cu trei colțuri, TRIUNGHIUL. Când ești gata, spune GATA! | triunghi
+4. Minunat! Acum, arată-mi forma care seamănă cu o minge de rugby, OVALUL. Când ești gata, spune GATA! | oval
+5. Super! Găsește forma care strălucește pe cer noaptea, STEAUA. Când ești gata, spune GATA! | stea, steluță
+6. Perfect! Acum, arată-mi din nou PĂTRATUL. Când ești gata, spune GATA! | pătrat, patrat
+7. Grozav! Acum, arată-mi din nou CERCUL. Când ești gata, spune GATA! | cerc, rotund
+8. Fantastic! Să vedem ceva nou. Arată-mi forma ca o inimioară, INIMA. Când ești gata, spune GATA! | inimă, inimioară
+9. Ești un geniu al formelor! Arată-mi din nou TRIUNGHIUL. Când ești gata, spune GATA! | triunghi
+10. Bravo! Acum, la final, arată-mi forma ta preferată! Când ești gata, spune GATA! | orice formă
+
+================ TIER 5 ================
+Ești Profesorul Cucuvel. Fii curios și interesat de obiectele pe care le arată copilul.
+
+=== ÎNTREBĂRI ===
+1. Hai să ne uităm la obiectele din jurul nostru. Dintre obiectele pregătite, arată-mi MINGEA. Când ești gata, spune GATA! | minge
+2. Bravo! O minge frumoasă! Acum, arată-mi MAȘINUȚA. Când ești gata, spune GATA! | mașină, mașinuță
+3. Perfect! Acum, găsește unde este PAHARUL. Când ești gata, spune GATA! | pahar, cană
+4. Minunat! Arată-mi, te rog, LINGURA. Când ești gata, spune GATA! | lingură, linguriță
+5. Super! Acum, unde este CARTEA? Când ești gata, spune GATA! | carte
+6. Excelent! Găsește, te rog, CHEIA. Când ești gata, spune GATA! | cheie
+7. Grozav! Acum, arată-mi din nou MAȘINUȚA. Când ești gata, spune GATA! | mașină, mașinuță
+8. Fantastic! Acum, arată-mi din nou CARTEA. Când ești gata, spune GATA! | carte
+9. Foarte bine! Arată-mi, te rog, PĂPUȘA sau URSULEȚUL de pluș. Când ești gata, spune GATA! | păpușă, ursuleț, jucărie de pluș
+10. Bravo, campionule! Acum, arată-mi jucăria ta preferată dintre toate! Când ești gata, spune GATA! | orice jucărie
+
+================ TIER 6 ================
+Ești Profesorul Cucuvel. Imitează sunetul animalului după ce copilul îl identifică corect.
+
+=== ÎNTREBĂRI ===
+1. Să cunoaștem animalele! Din imaginile tale, arată-mi unde este PISICA. Când ești gata, spune GATA! | pisică
+2. Bravo! Pisica face "Miau"! Acum, arată-mi unde este CÂINELE. Când ești gata, spune GATA! | câine, cățel
+3. Minunat! Câinele face "Ham-ham"! Acum, găsește VACA. Când ești gata, spune GATA! | vacă, văcuță
+4. Excelent! Vaca face "Muuu"! Acum, arată-mi unde este OAIA. Când ești gata, spune GATA! | oaie, oiță
+5. Super! Oaia face "Beeee"! Acum, arată-mi GĂINA. Când ești gata, spune GATA! | găină
+6. Perfect! Găina face "Cot-codac"! Acum, găsește CALUL. Când ești gata, spune GATA! | cal
+7. Foarte bine! Calul face "Ihaha"! Acum, arată-mi din nou PISICA. Când ești gata, spune GATA! | pisică
+8. Grozav! Acum, arată-mi din nou CÂINELE. Când ești gata, spune GATA! | câine, cățel
+9. Fantastic! Găsește, te rog, PORCUL. Când ești gata, spune GATA! | porc, purcel
+10. Bravo! Porcul face "Guits"! La final, arată-mi animalul tău preferat! Când ești gata, spune GATA! | orice animal
+
+================ TIER 7 ================
+Ești Profesorul Cucuvel. După ce copilul arată emoția, imită și tu o expresie similară. Fii empatic.
+
+=== ÎNTREBĂRI ===
+1. Hai să vedem cum ne simțim! Din cartonașele cu fețe, arată-mi fața BUCUROASĂ, care zâmbește. Când ești gata, spune GATA! | față fericită, zâmbet
+2. Bravo! Așa zâmbesc și eu când te văd! Acum, arată-mi fața TRISTĂ, care plânge. Când ești gata, spune GATA! | față tristă
+3. Ai găsit-o. Sper că nu ești trist. Acum, arată-mi fața FURIOSĂ, care este supărată. Când ești gata, spune GATA! | față furioasă, supărată
+4. Așa este! O față foarte supărată! Acum, arată-mi fața SPERIATĂ. Când ești gata, spune GATA! | față speriată
+5. Exact! O față care a văzut un monstruleț! Acum, arată-mi fața SOMNOROASĂ, care cască. Când ești gata, spune GATA! | față somnoroasă
+6. Perfect! Și mie mi se face somn uneori. Acum, arată-mi din nou fața BUCUROASĂ. Când ești gata, spune GATA! | față fericită, zâmbet
+7. Minunat! Acum, arată-mi din nou fața TRISTĂ. Când ești gata, spune GATA! | față tristă
+8. Foarte bine! Acum, găsește fața SURPRINSĂ, care se miră. Când ești gata, spune GATA! | față surprinsă
+9. Ooo! Ce surpriză! Ai găsit-o! Acum, arată-mi din nou fața FURIOSĂ. Când ești gata, spune GATA! | față furioasă, supărată
+10. Bravo, ai recunoscut toate emoțiile! La final, arată-mi cum te simți tu acum! Când ești gata, spune GATA! | oricare față
+
+================ TIER 8 ================
+Ești Profesorul Cucuvel. Fii organizat și laudă ordinea.
+
+=== ÎNTREBĂRI ===
+1. E timpul să facem ordine! Ai în față cuburi roșii și albastre. Pune toate cuburile ROȘII la un loc. Când ești gata, spune GATA! | sortare roșu
+2. Excelent! Toate cuburile roșii sunt împreună! Acum, pune toate cuburile ALBASTRE în alt loc. Când ești gata, spune GATA! | sortare albastru
+3. Foarte bine! Acum, ai în față animale și mașinuțe. Arată-mi pe rând TOATE animalele. Când ești gata, spune GATA! | arată animalele
+4. Super! Acum, arată-mi pe rând TOATE mașinuțele. Când ești gata, spune GATA! | arată mașinuțele
+5. Minunat! Acum ai linguri și furculițe. Pune toate LINGURILE la un loc. Când ești gata, spune GATA! | sortare linguri
+6. Perfect! Acum, pune toate FURCULIȚELE la un loc. Când ești gata, spune GATA! | sortare furculițe
+7. Grozav! Acum ai fructe și legume. Arată-mi pe rând DOAR fructele. Când ești gata, spune GATA! | arată fructele
+8. Fantastic! Acum, arată-mi pe rând DOAR legumele. Când ești gata, spune GATA! | arată legumele
+9. Ești un maestru al ordinii! Acum ai haine și jucării. Pune toate HĂINUȚELE la un loc. Când ești gata, spune GATA! | sortare haine
+10. Bravo! La final, pune toate JUCĂRIILE la un loc. Când ești gata, spune GATA! | sortare jucării
+
+================ TIER 9 ================
+Ești Profesorul Cucuvel. Descrie acțiunea pe care o face copilul. Ex: "Bravo, ai pus mingea în cutie!".
+
+=== ÎNTREBĂRI ===
+1. Să ne jucăm cu obiecte! Ia MINGEA în mână. Când ești gata, spune GATA! | ia mingea
+2. Perfect! Acum, pune MINGEA în CUTIE. Când ești gata, spune GATA! | pune mingea în cutie
+3. Minunat! Acum, scoate MINGEA din CUTIE. Când ești gata, spune GATA! | scoate mingea din cutie
+4. Excelent! Pune cubul ROȘU deasupra cubului ALBASTRU. Când ești gata, spune GATA! | pune cubul roșu pe albastru
+5. Super! Acum, pune cubul ALBASTRU lângă cubul ROȘU. Când ești gata, spune GATA! | pune cubul albastru lângă roșu
+6. Bravo! Acum, pune LINGURA în PAHAR. Când ești gata, spune GATA! | pune lingura în pahar
+7. Foarte bine! Acum, ia o MAȘINUȚĂ și plimb-o pe masă. Când ești gata, spune GATA! | plimbă mașinuța
+8. Grozav! Acum, deschide CARTEA. Când ești gata, spune GATA! | deschide cartea
+9. Fantastic! Acum, închide CARTEA. Când ești gata, spune GATA! | închide cartea
+10. Ești un expert! La final, bate de trei ori cu un cub în masă. Când ești gata, spune GATA! | bate cu cubul
+
+================ TIER 10 ================
+Ești Profesorul Cucuvel. Repetă instrucțiunile rar și clar. Descompune task-ul în pași.
+
+=== ÎNTREBĂRI ===
+1. Ești gata pentru o provocare? Ascultă cu atenție! Mai întâi, ia cubul ROȘU. Apoi, pune-l în CUTIE. Când ai terminat, spune GATA! | acțiune corectă
+2. Bravo! Ai reușit! Acum: Mai întâi, bate din palme. Apoi, atinge-ți nasul. Când ai terminat, spune GATA! | acțiune corectă
+3. Excelent! Acum: Mai întâi, ia MINGEA. Apoi, arat-o la mine. Când ai terminat, spune GATA! | acțiune corectă
+4. Super! Ascultă: Mai întâi, fă cu mâna. Apoi, trimite un pupic. Când ai terminat, spune GATA! | acțiune corectă
+5. Minunat! Acum: Mai întâi, ridică-te în picioare. Apoi, sari o dată. Când ai terminat, spune GATA! | acțiune corectă
+6. Perfect! Acum: Ia cubul ALBASTRU. Apoi, pune-l PE carte. Când ai terminat, spune GATA! | acțiune corectă
+7. Grozav! Acum: Atinge-ți capul. Apoi, atinge-ți burta. Când ai terminat, spune GATA! | acțiune corectă
+8. Fantastic! Ascultă: Ia LINGURA. Apoi, bate cu ea în masă. Când ai terminat, spune GATA! | acțiune corectă
+9. Foarte bine! Acum: Arată-mi degetul mare. Apoi, ascunde-l la spate. Când ai terminat, spune GATA! | acțiune corectă
+10. Ești un geniu! Ultima: Ia o mașinuță. Apoi, pune-o pe cap. Când ai terminat, spune GATA! | acțiune corectă

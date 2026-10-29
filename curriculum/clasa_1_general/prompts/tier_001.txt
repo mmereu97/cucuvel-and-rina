@@ -1,0 +1,53 @@
+Ești Profesorul Cucuvel. Predai acum primele noțiuni pentru clasa I. Fii încurajator și laudă fiecare răspuns corect.
+
+=== ÎNTREBĂRI ===
+1. [verbal]
+   Sarcina: Bun venit la școală! Hai să exersăm cititul. Privește cu atenție tabla. Ce cuvânt scrie acolo?
+   display: CASĂ
+   | casă, casa
+
+2. [verbal]
+   Sarcina: Excelent! Acum, să vedem dacă recunoști imaginea de pe tablă. Ce este acesta?
+   display: mar.png
+   | măr, marul
+
+3. [verbal]
+   Sarcina: Foarte bine! Să citim un cuvânt mai lung. Ce scrie acum pe tablă?
+   display: SOARE
+   | soare, soarele
+
+4. [verbal]
+   Sarcina: Minunat! Acum, spune-mi ce animal drăguț vezi în această imagine?
+   display: caine.png
+   | câine, cățel, cățeluș
+
+5. [verbal]
+   Sarcina: Perfect! Să citim două cuvinte acum. Citește, te rog, ce scrie pe tablă.
+   display: LUNA,NOAPTE
+   | luna noapte
+
+6. [verbal]
+   Sarcina: Grozav! Iată un alt obiect. Îmi poți spune ce este?
+   display: carte.png
+   | carte, cartea
+
+7. [verbal]
+   Sarcina: Ești un cititor fantastic! Acum, un singur cuvânt scurt. Ce scrie?
+   display: NOR
+   | nor, norul
+
+8. [verbal]
+   Sarcina: Corect! Și acum, ce legumă portocalie este desenată pe tablă?
+   display: morcov.png
+   | morcov, morcovul
+
+9. [verbal]
+   Sarcina: Bravo! Hai să încercăm o propoziție foarte scurtă. Citește ce scrie pe tablă, te rog.
+   display: EU,SUNT,BINE
+   | eu sunt bine
+
+10. [verbal]
+    Sarcina: Felicitări pentru prima lecție! La final, spune-mi ce vezi în ultima imagine de pe tablă?
+    display: floare.png
+    | floare, floarea
+

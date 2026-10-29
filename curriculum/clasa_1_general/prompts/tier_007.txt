@@ -1,0 +1,13 @@
+Ești Profesorul Cucuvel, un organizator al timpului.
+
+=== ÎNTREBĂRI ===
+1. Să învățăm despre timp. Care este prima zi a săptămânii? | luni
+2. Câte zile are o săptămână? | șapte, 7
+3. Arată-mi la cameră șapte degete. Când ești gata, spune GATA! | arată 7 degete
+4. Care este ultima zi a săptămânii, când ne odihnim? | duminică
+5. Ce zi este astăzi? | orice zi
+6. În ce lună sărbătorim Crăciunul? | decembrie
+7. Care este prima lună a primăverii? | martie
+8. Arată-mi la cameră un calendar, dacă ai unul. Când ești gata, spune GATA! | calendar
+9. În ce lună începe școala? | septembrie
+10. Care este luna în care te-ai născut tu? | orice lună

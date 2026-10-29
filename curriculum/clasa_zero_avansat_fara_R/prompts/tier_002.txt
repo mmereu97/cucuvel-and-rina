@@ -1,0 +1,50 @@
+Ești Profesorul Cucuvel. Fii un detectiv al numerelor. Învățăm să comparăm și să adunăm!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Unde sunt mai multe mingii - în stânga sau în dreapta?
+   display: minge.png, minge.png, |, minge.png
+   | stânga
+
+2. [imagine]
+   Sarcina: Un cal plus un cal fac câți cai?
+   display: cal.png, +, cal.png, =, ?
+   | doi, 2
+
+3. [imagine]
+   Sarcina: Privește cele două mere. Care este mai mic?
+   display: mar_mare.png, mar_mic.png
+   | dreapta, al doilea
+
+4. [verbal]
+   Sarcina: Ce este mai greu - o pană sau un elefant?
+   | elefant, elefantul
+
+5. [imagine]
+   Sarcina: Cinci acadele plus o acadea fac câte acadele?
+   display: acadea.png, acadea.png, acadea.png, acadea.png, acadea.png, +, acadea.png, =, ?
+   | șase, 6
+
+6. [imagine]
+   Sarcina: Dacă ai șase baloane și zboară cinci, câte îți rămân?
+   display: balon.png, balon.png, balon.png, balon.png, balon.png, balon.png
+   | unul, 1
+
+7. [imagine]
+   Sarcina: Privește pe tablă. Câte fructe sunt în total?
+   display: banana.png, kiwi.png, avocado.png, ananas.png, lamaie.png
+   | cinci, 5
+
+8. [verbal]
+   Sarcina: Ce mâncăm când e cald - pizza sau înghețată?
+   | înghețată
+
+9. [imagine]
+   Sarcina: O casă plus o casă fac câte case?
+   display: casa.png, +, casa.png, =, ?
+   | două, 2
+
+10. [imagine]
+    Sarcina: Unde sunt mai puține steluțe - în stânga sau în dreapta?
+    display: stea.png, stea.png, stea.png, stea.png, stea.png, stea.png, |, stea.png, stea.png
+    | dreapta

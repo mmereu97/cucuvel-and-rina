@@ -1,0 +1,130 @@
+{
+  "display_name": "Rina",
+  "language": "en-US",
+  "voice_id": "en-US-AriaNeural",
+  "can_leave_home": false,
+  "can_be_summoned": false,
+  "home_scene": "acasa",
+  "filler_sounds_folder_prefix": "audio_replici_",
+  "animator_config": ["blinking", "emotion"],
+
+  "components": {
+    "parts": {
+      "corp": "corp/trunchi.png",
+      "cap_baza": "cap/cap_baza.png",
+      "ochi": "cap/ochi/ochi_deschisi_centru.png",
+      "gura": "cap/gura/gura_inchisa.png"
+    },
+    
+    "part_offsets": {
+      "corp": [0, 0],
+      "cap_baza": [0, 0],
+      "ochi": [0, 0],
+      "gura": [0, 0]
+    },
+
+    "z_order": [
+      "corp",
+      "cap_baza",
+      "ochi",
+      "gura"
+    ],
+    
+    "animation_groups": {
+      "breathing_body": ["corp"],
+      "breathing_head": ["cap_baza", "ochi", "gura"],
+      "blinking_part": "ochi",
+      "talking_part": "gura"
+    },
+
+    "visual_states": {
+        "blinking": {
+            "target_part": "ochi",
+            "timing": {
+                "close_duration": 50,
+                "closed_duration": 100,
+                "open_duration": 50
+            }
+        },
+        "talking": {
+            "target_part": "gura",
+            "open_file": "cap/gura/gura_deschisa.png",
+            "closed_file": "cap/gura/gura_inchisa.png"
+        },
+        "gaze_tracking": {
+            "enabled": true,
+            "target_part": "ochi",
+            "directions": {
+                "stanga": "cap/ochi/ochi_deschisi_stanga.png",
+                "centru": "cap/ochi/ochi_deschisi_centru.png",
+                "dreapta": "cap/ochi/ochi_deschisi_dreapta.png"
+            }
+        },
+        "expressions": {
+            "neutral": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "happy": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_zambitoare.png"
+            },
+            "sad": {
+                "ochi": "cap/ochi/ochi_inchisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "thinking": {
+                "ochi": "cap/ochi/ochi_ganditori.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "sleeping": {
+                "ochi": "cap/ochi/ochi_inchisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "curious": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "playful": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_zambitoare.png"
+            },
+            "surprised": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_deschisa.png"
+            },
+            "attentive": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "confuz": {
+                "ochi": "cap/ochi/ochi_semi_centru.png",
+                "gura": "cap/gura/gura_inchisa.png"
+            },
+            "proud": {
+                "ochi": "cap/ochi/ochi_deschisi_centru.png",
+                "gura": "cap/gura/gura_zambitoare.png"
+            }
+        }
+    }
+  },
+  
+  "scene_configs": {
+    "acasa": {
+      "scale": 0.2,
+      "pos": [800, 465]
+    },
+    "scoala": {
+      "scale": 0.18,
+      "pos": [900, 550]
+    },
+    "poiana": {
+      "scale": 0.19,
+      "pos": [950, 580]
+    },
+    "pajiste": {
+      "scale": 0.18,
+      "pos": [850, 600]
+    }
+  }
+}

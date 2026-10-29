@@ -1,0 +1,57 @@
+{
+  "domain_id": "gimnastica_mintii_fara_r",
+  "domain_name": "Gimnastica Minții Fără R (Clasa Zero)",
+  "description": "Un curriculum progresiv de 100 de întrebări adaptate pentru copii care nu pot pronunța încă litera R. Combină matematica și logica cu răspunsuri accesibile (fără litera R și fără numerele 3 și 4).",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Numite Simple și Obiecte Cunoscute",
+      "description": "Exerciții de bază cu număratul obiectelor familiare (1, 2, 5, 6) și identificarea acestora."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Mai Mult, Mai Puțin",
+      "description": "Comparații simple între grupuri de obiecte și adunări cu rezultate valide (1, 2, 5, 6)."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Găsește Intrusul",
+      "description": "Exerciții de logică: identificarea obiectului diferit într-un grup, dezvoltarea gândirii categoriale."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Matematică cu Imagini",
+      "description": "Adunări și scăderi simple cu suport vizual. Rezultate: 1, 2, 5, 6, 7, 8."
+    },
+    {
+      "tier_id": "tier_005",
+      "tier_name": "Nivel 5: Ce Lipsește?",
+      "description": "Exerciții de observație: identificarea obiectului lipsă dintr-o serie și completarea pattern-urilor."
+    },
+    {
+      "tier_id": "tier_006",
+      "tier_name": "Nivel 6: Matematică cu Numere Mari",
+      "description": "Operații cu rezultate până la 10. Include numerele 7, 8, 9, 10."
+    },
+    {
+      "tier_id": "tier_007",
+      "tier_name": "Nivel 7: Logică și Categorii",
+      "description": "Clasificare avansată, grupare după criterii (mărime, categorie, funcție) și raționament logic."
+    },
+    {
+      "tier_id": "tier_008",
+      "tier_name": "Nivel 8: Probleme Strategice",
+      "description": "Probleme în doi pași care necesită planificare și gândire strategică pentru rezolvare."
+    },
+    {
+      "tier_id": "tier_009",
+      "tier_name": "Nivel 9: Lumea din Jurul Nostru",
+      "description": "Întrebări despre natură, animale, fenomene naturale și asocieri logice din viața cotidiană."
+    },
+    {
+      "tier_id": "tier_010",
+      "tier_name": "Nivel 10: Provocarea Finală",
+      "description": "Enigme logice, analogii complexe, șiruri și probleme de perspicacitate de tip IQ."
+    }
+  ]
+}

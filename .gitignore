@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------------------
+# Family data lives in ../Data, outside this repository:
+# family.json, voice_profiles/, conversation_logs/, config.json, .env, models/
+# The rules below are a second safety net in case a file lands here by mistake.
+# ---------------------------------------------------------------------------
+Data/
+family.json
+/config.json
+voice_profiles/
+conversation_logs/
+pretrained_models/
+models/
+temp/
+temp_speech_*.mp3
+*.npy
+.env
+*.env
+
+# Build / IDE
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+.idea/
+.vscode/
+.venv/
+venv/

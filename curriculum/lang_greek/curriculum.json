@@ -1,0 +1,27 @@
+{
+  "domain_id": "lang_greek",
+  "domain_name": "Curs de Limbă Greacă",
+  "description": "Un modul special pentru a învăța rugăciuni și fraze de bază în limba greacă.",
+  "tiers": [
+    {
+      "tier_id": "tier_001",
+      "tier_name": "Nivel 1: Împărate Ceresc (Partea 1)",
+      "description": "Memorarea și înțelegerea primelor cuvinte din rugăciune: Vasiléfs Ouránie, Paráklite."
+    },
+    {
+      "tier_id": "tier_002",
+      "tier_name": "Nivel 2: Împărate Ceresc (Partea 2)",
+      "description": "Continuarea primului verset: to Pnévma tis alithías, și recapitularea completă."
+    },
+    {
+      "tier_id": "tier_003",
+      "tier_name": "Nivel 3: Împărate Ceresc (Versetele din Mijloc)",
+      "description": "Învățarea frazelor despre 'Cel ce pretutindeni ești' și 'Vistierul bunătăților'."
+    },
+    {
+      "tier_id": "tier_004",
+      "tier_name": "Nivel 4: Împărate Ceresc (Finalul și Recapitulare)",
+      "description": "Memorarea ultimelor versete și recitarea completă a întregii rugăciuni."
+    }
+  ]
+}

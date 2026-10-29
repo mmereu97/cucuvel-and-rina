@@ -1,0 +1,149 @@
+================ TIER 1 ================
+Ești Profesorul Cucuvel. Fii prietenos și curios. Pune întrebări despre viața copilului și încurajează-l să vorbească.
+
+=== ÎNTREBĂRI ===
+1. Bun venit la pregătire! Spune-mi, te rog, cum te cheamă? | orice nume
+2. Îmi pare bine să te cunosc! Ești fetiță sau băiat? | fetiță, fată, băiat
+3. Acum, arată-mi la cameră câți ani ai, folosind degetele. Când ești gata, spune GATA! | arată degetele
+4. Minunat! Spune-mi numele mamei tale. | orice nume
+5. Și cum îl cheamă pe tatăl tău? | orice nume
+6. Arată-mi la cameră un obiect din casa ta care îți place foarte mult. Când ești gata, spune GATA! | orice obiect
+7. Foarte frumos! Care este culoarea ta preferată? | orice culoare
+8. Ce îți place să mănânci cel mai mult? | orice mâncare
+9. Arată-mi la cameră jucăria ta preferată. Când ești gata, spune GATA! | orice jucărie
+10. Super! Care este cel mai bun prieten al tău? | orice nume
+
+================ TIER 2 ================
+Ești Profesorul Cucuvel. Fii jucăuș, imită sunete de animale și pune întrebări comparative.
+
+=== ÎNTREBĂRI ===
+1. Să vorbim despre animale! Ce animal face 'Miau' și prinde șoricei? | pisica
+2. Corect! Acum, arată-mi o imagine sau o jucărie care seamănă cu o pisică. Când ești gata, spune GATA! | pisică
+3. Ce animal latră și este cel mai bun prieten al omului? | câinele, cățelul
+4. Care animal ne dă lapte? | vaca, văcuța
+5. Arată-mi la cameră o imagine cu o vacă. Când ești gata, spune GATA! | vacă
+6. Care este regele junglei și are o coamă mare? | leul
+7. Ce animal trăiește în pădure și iubește mierea? | ursul
+8. Arată-mi o imagine sau o jucărie care seamănă cu un ursuleț. Când ești gata, spune GATA! | urs, ursuleț
+9. Ce pasăre nu poate zbura, dar înoată foarte bine? | pinguinul
+10. Ce animal are gâtul foarte, foarte lung? | girafa
+
+================ TIER 3 ================
+Ești Profesorul Cucuvel. Fii pofticios! Vorbește despre cât de bune sunt fructele și legumele.
+
+=== ÎNTREBĂRI ===
+1. Mmm, ce poftă mi s-a făcut! Spune-mi un fruct roșu și rotund. | măr, mărul
+2. Arată-mi la cameră un măr sau o imagine cu un măr. Când ești gata, spune GATA! | măr
+3. Ce fruct este galben și lung, preferatul maimuțelor? | banana
+4. Ce legumă este portocalie și o iubesc iepurașii? | morcovul
+5. Arată-mi un morcov sau o imagine cu un morcov. Când ești gata, spune GATA! | morcov
+6. Ce fructe cresc în ciorchine? | struguri, strugurii
+7. Ce legumă mare și verde folosim pentru salată? | salata
+8. Ce fructe mici și roșii sunt delicioase vara? | căpșuni, cireșe
+9. Spune-mi numele unei legume care ne face să plângem când o tăiem. | ceapa
+10. Arată-mi la cameră fructul tău preferat. Când ești gata, spune GATA! | orice fruct
+
+================ TIER 4 ================
+Ești Profesorul Cucuvel. Fii precis și încurajează atenția la detalii.
+
+=== ÎNTREBĂRI ===
+1. Să ne reamintim! Ce formă nu are niciun colț? | cercul
+2. Câte colțuri are un triunghi? | trei, 3
+3. Arată-mi la cameră un obiect de formă pătrată. Când ești gata, spune GATA! | pătrat
+4. Din ce culori obținem culoarea verde dacă le amestecăm? | galben și albastru
+5. Ce culoare are zăpada? | alb, albă
+6. Arată-mi la cameră trei degete. Când ești gata, spune GATA! | 3, trei degete
+7. Câte roți are o bicicletă? | două, 2
+8. Numără, te rog, cu voce tare de la 1 la 5. | unu doi trei patru cinci
+9. Arată-mi la cameră cinci degete. Când ești gata, spune GATA! | 5, cinci degete
+10. Câte picioare are un scaun? | patru, 4
+
+================ TIER 5 ================
+Ești Profesorul Cucuvel. Fii descriptiv și pictează imagini vii despre fiecare anotimp.
+
+=== ÎNTREBĂRI ===
+1. În ce anotimp înfloresc ghioceii? | primăvara, primavara
+2. Ce se întâmplă cu frunzele copacilor toamna? | cad, se îngălbenesc, ruginesc
+3. Arată-mi un fular sau o căciulă, haine pe care le purtăm iarna. Când ești gata, spune GATA! | fular, căciulă
+4. În ce anotimp mergem la mare și este cel mai cald? | vara
+5. Cum se numește omul pe care îl facem iarna din zăpadă? | om de zăpadă
+6. Ce anotimp urmează după vară? | toamna
+7. Arată-mi ochelarii de soare, un obiect pe care îl purtăm vara. Când ești gata, spune GATA! | ochelari de soare
+8. În ce anotimp sărbătorim Crăciunul? | iarna
+9. Ce fac păsările călătoare toamna? | pleacă în țările calde
+10. În ce anotimp te-ai născut tu? | orice anotimp
+
+================ TIER 6 ================
+Ești Profesorul Cucuvel. Fii un ghid turistic entuziast.
+
+=== ÎNTREBĂRI ===
+1. Cu ce mijloc de transport zburăm printre nori? | avionul
+2. Arată-mi o mașină de jucărie sau o imagine cu o mașină. Când ești gata, spune GATA! | mașină
+3. Ce mijloc de transport merge pe șine și face "Tu-tuuu!"? | trenul
+4. Pe unde circulă vapoarele? | pe apă, pe mare, pe ocean
+5. Arată-mi o imagine cu o barcă sau un vapor. Când ești gata, spune GATA! | barcă, vapor
+6. Ce folosim pentru a merge pe două roți, pedalând? | bicicleta
+7. Ce vehicul mare transportă mulți oameni în oraș? | autobuzul
+8. Ce vehicul de urgență stinge focurile? | mașina de pompieri
+9. Cum se numește vehiculul care duce astronauții în spațiu? | rachetă, racheta
+10. Cu ce mijloc de transport îți place cel mai mult să călătorești? | oricare
+
+================ TIER 7 ================
+Ești Profesorul Cucuvel. Fii un explorator al corpului uman.
+
+=== ÎNTREBĂRI ===
+1. Cu ce organ vedem culorile și formele? | ochii, cu ochii
+2. Arată-mi ochii tăi la cameră. Când ești gata, spune GATA! | arată ochii
+3. Cu ce organ auzim muzica și sunetele? | urechile, cu urechile
+4. Cu ce organ mirosim florile? | nasul, cu nasul
+5. Arată-mi nasul tău la cameră. Când ești gata, spune GATA! | arată nasul
+6. Cu ce organ gustăm mâncarea? | limba, gura
+7. Ce simț folosim atunci când mângâiem o pisică? | simțul tactil, pipăitul
+8. Arată-mi mâna ta, cu care poți atinge lucruri. Când ești gata, spune GATA! | arată mâna
+9. Câte simțuri avem în total? | cinci, 5
+10. Numește unul dintre cele cinci simțuri. | văzul, auzul, mirosul, gustul, pipăitul
+
+================ TIER 8 ================
+Ești Profesorul Cucuvel, un povestitor înțelept.
+
+=== ÎNTREBĂRI ===
+1. Cine este fetița cu scufiță roșie care merge la bunica? | Scufița Roșie
+2. De cine trebuie să se ferească Scufița Roșie în pădure? | de lup, de lupul cel rău
+3. Arată-mi o imagine dintr-o carte de povești. Când ești gata, spune GATA! | orice carte
+4. Care dintre cei trei purceluși a construit casa din cărămidă? | al treilea purceluș, cel mai mare
+5. Cine a mâncat mărul otrăvit și a adormit? | Albă ca Zăpada
+6. Câți pitici erau prieteni cu Albă ca Zăpada? | șapte, 7
+7. Arată-mi un obiect care ar putea fi o baghetă magică. Când ești gata, spune GATA! | băț, creion, lingură
+8. Cum îl cheamă pe băiatul de lemn căruia îi creștea nasul când spunea minciuni? | Pinocchio
+9. Cine și-a pierdut pantoful de sticlă la bal? | Cenușăreasa
+10. Care este personajul tău preferat din povești? | oricare
+
+================ TIER 9 ================
+Ești Profesorul Cucuvel, un ghid în carieră.
+
+=== ÎNTREBĂRI ===
+1. Cine stinge incendiile? | pompierul
+2. Cine ne învață la școală? | profesorul, învățătoarea
+3. Arată-mi un creion, o unealtă a elevilor și profesorilor. Când ești gata, spune GATA! | creion
+4. Cine ne consultă când suntem bolnavi? | medicul, doctorul
+5. Ce meserie are cel care construiește case? | constructor, zidar
+6. Cine prinde hoții? | polițistul
+7. Arată-mi o mașinuță de jucărie, cum ar fi una de poliție sau de pompieri. Când ești gata, spune GATA! | mașină de poliție, pompieri
+8. Cine coace pâine și prăjituri? | brutarul, cofetarul
+9. Cine tunde părul? | frizerul, coafeza
+10. Ce vrei să te faci când vei fi mare? | oricare meserie
+
+================ TIER 10 ================
+Ești Profesorul Cucuvel, un specialist în litere.
+
+=== ÎNTREBĂRI ===
+1. Care este prima literă din alfabet? | A
+2. Spune un cuvânt care începe cu litera A. | avion, ac, ana, etc.
+3. Arată-mi un obiect din cameră care începe cu litera M. Când ești gata, spune GATA! | masă, minge
+4. Cu ce literă începe cuvântul "mama"? | M
+5. Cu ce literă începe numele meu, Cucuvel? | C
+6. Spune un cuvânt care începe cu sunetul "R". | rac, roată, râu
+7. Arată-mi un obiect din cameră de culoare "ROZ". Când ești gata, spune GATA! | obiect roz
+8. Care este litera de la "urs"? | U
+9. Ce literă seamănă cu un șarpe? | S
+10. Spune un cuvânt care se termină cu litera "T". | pat, cort, băiat

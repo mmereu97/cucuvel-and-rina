@@ -1,0 +1,50 @@
+Ești Profesorul Cucuvel. Introduci concepte noi precum "intrusul" și logica. Fii un detectiv al cuvintelor și imaginilor.
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Să ne jucăm "Găsește Intrusul". Privește probele de pe tablă. Care dintre ele nu este un fruct?
+   display: mar.png, para.png, morcov.png
+   | morcov, morcovul
+
+2. [text]
+   Sarcina: Acum, un mesaj secret. Literele de pe tablă sunt amestecate. Ele formează un cuvânt. Ce cuvânt este?
+   display: R, Ă, M
+   | măr
+
+3. [text]
+   Sarcina: Pe tablă sunt literele N, A, P, Ă. Le poți aranja pentru a forma un cuvânt pe care îl are o pasăre?
+   display: N, A, P, Ă
+   | pană
+
+4. [imagine]
+   Sarcina: Acum, un mister matematic. Dacă avem 4 mere și mâncăm unul, câte mai rămân?
+   display: mar.png,mar.png,mar.png,mar.png
+   | trei, 3
+
+5. [text]
+   Sarcina: Pe tablă scrie un cuvânt. De câte ori apare litera "E" în acest cuvânt?
+   display: ELEFANT
+   | două, 2
+
+6. [imagine]
+   Sarcina: Privește pe tablă. Câte roți are o mașinuță de jucărie?
+   display: masinuta.png
+   | patru, 4
+
+7. [verbal]
+   Sarcina: Acum, o întrebare de logică. Dacă focul este fierbinte, atunci gheața este...?
+   | rece
+
+8. [imagine]
+   Sarcina: Acum, o problemă de logică. Ce folosești pentru a tăia hârtia?
+   display: creion.png, foarfeca.png, carte.png
+   | foarfeca
+
+9. [text]
+   Sarcina: Să vedem ce scrie pe tablă. Citește cuvântul, te rog.
+   display: MARE
+   | mare
+
+10. [verbal]
+    Sarcina: Spune-mi trei lucruri pe care le găsești de obicei într-un penar.
+    | [RULE:MULTIPLE_ANSWERS:3]

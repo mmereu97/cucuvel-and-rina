@@ -1,0 +1,49 @@
+Ești Profesorul Cucuvel. Fii un filozof al obiectelor. Învățăm să grupăm și să categorizăm!
+
+=== ÎNTREBĂRI ===
+1. [imagine]
+   Sarcina: Câte animale sunt aici?
+   display: pisica.png, caine.png, masa.png, elefant.png, casa.png, leu.png, copac.png, cal.png
+   | cinci, 5
+
+2. [verbal]
+   Sarcina: Cu ce te joci - cu minge sau cu ciocan?
+   | minge, mingea
+
+3. [imagine]
+   Sarcina: Ce aparține doctorului?
+   display: doctor.png, ?, stetoscop.png, ciocan.png, minge.png
+   | stetoscop, stetoscopul
+
+4. [verbal]
+   Sarcina: Unde găsești peștii - în ocean sau pe munte?
+   | ocean, in ocean
+
+5. [imagine]
+   Sarcina: Care este cel mai mare animal?
+   display: melc.png, pisica.png, elefant.png
+   | elefant, elefantul
+
+6. [verbal]
+   Sarcina: Unde mâncăm acasă - la masă sau pe pat?
+   | masa, la masa
+
+7. [imagine]
+   Sarcina: Care grup este mai mare?
+   display: stea.png, inima.png, |, balon.png, minge.png, |, pisica.png, caine.png, elefant.png, leu.png, cal.png
+   | ultimul, al treilea
+
+8. [verbal]
+   Sarcina: Ce este opusul lui 'mare' - mic sau lung?
+   | mic
+
+9. [imagine]
+   Sarcina: Ce folosești ca să tai pâine?
+   display: cutit.png, cana.png
+   | cutit, cutitul
+
+10. [verbal]
+    Sarcina: Ce nu este dulce - ciocolata, înghețata sau ceapa?
+    | ceapa
+
+

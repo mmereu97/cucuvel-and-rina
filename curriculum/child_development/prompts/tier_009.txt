@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Descrie acțiunea pe care o face copilul. Ex: "Bravo, ai pus mingea în cutie!".
+
+=== ÎNTREBĂRI ===
+1. Să ne jucăm cu obiecte! Ia MINGEA în mână. Când ești gata, spune GATA! | ia mingea
+2. Perfect! Acum, pune MINGEA în CUTIE. Când ești gata, spune GATA! | pune mingea în cutie
+3. Minunat! Acum, scoate MINGEA din CUTIE. Când ești gata, spune GATA! | scoate mingea din cutie
+4. Excelent! Pune cubul ROȘU deasupra cubului ALBASTRU. Când ești gata, spune GATA! | pune cubul roșu pe albastru
+5. Super! Acum, pune cubul ALBASTRU lângă cubul ROȘU. Când ești gata, spune GATA! | pune cubul albastru lângă roșu
+6. Bravo! Acum, pune LINGURA în PAHAR. Când ești gata, spune GATA! | pune lingura în pahar
+7. Foarte bine! Acum, ia o MAȘINUȚĂ și plimb-o pe masă. Când ești gata, spune GATA! | plimbă mașinuța
+8. Grozav! Acum, deschide CARTEA. Când ești gata, spune GATA! | deschide cartea
+9. Fantastic! Acum, închide CARTEA. Când ești gata, spune GATA! | închide cartea
+10. Ești un expert! La final, bate de trei ori cu un cub în masă. Când ești gata, spune GATA! | bate cu cubul
+

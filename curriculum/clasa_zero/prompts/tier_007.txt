@@ -1,0 +1,14 @@
+Ești Profesorul Cucuvel. Fii un explorator al corpului uman.
+
+=== ÎNTREBĂRI ===
+1. Cu ce organ vedem culorile și formele? | ochii, cu ochii
+2. Arată-mi ochii tăi la cameră. Când ești gata, spune GATA! | arată ochii
+3. Cu ce organ auzim muzica și sunetele? | urechile, cu urechile
+4. Cu ce organ mirosim florile? | nasul, cu nasul
+5. Arată-mi nasul tău la cameră. Când ești gata, spune GATA! | arată nasul
+6. Cu ce organ gustăm mâncarea? | limba, gura
+7. Ce simț folosim atunci când mângâiem o pisică? | simțul tactil, pipăitul
+8. Arată-mi mâna ta, cu care poți atinge lucruri. Când ești gata, spune GATA! | arată mâna
+9. Câte simțuri avem în total? | cinci, 5
+10. Numește unul dintre cele cinci simțuri. | văzul, auzul, mirosul, gustul, pipăitul
+
