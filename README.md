@@ -106,4 +106,4 @@ The interface and the lessons are in Romanian.
 
 ## 👤 Author
 
-Mihai Mereu ("Aarici Pogonici") · [GitHub](https://github.com/mmereu97)
+Mihai Mereu · [GitHub](https://github.com/mmereu97)
